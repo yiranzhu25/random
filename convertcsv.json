@@ -1,0 +1,6082 @@
+[
+  {
+    "GEOID":12011010308,
+    "DESERT":0,
+    "senior population":423
+  },
+  {
+    "GEOID":12011010603,
+    "DESERT":0,
+    "senior population":5465
+  },
+  {
+    "GEOID":12011020101,
+    "DESERT":0,
+    "senior population":342
+  },
+  {
+    "GEOID":12011020313,
+    "DESERT":0,
+    "senior population":435
+  },
+  {
+    "GEOID":12011020323,
+    "DESERT":0,
+    "senior population":785
+  },
+  {
+    "GEOID":12011030401,
+    "DESERT":2,
+    "senior population":7677
+  },
+  {
+    "GEOID":12011030801,
+    "DESERT":2,
+    "senior population":35
+  },
+  {
+    "GEOID":12011030903,
+    "DESERT":2,
+    "senior population":435
+  },
+  {
+    "GEOID":12011040101,
+    "DESERT":0,
+    "senior population":6546
+  },
+  {
+    "GEOID":12011040503,
+    "DESERT":0,
+    "senior population":65
+  },
+  {
+    "GEOID":12011041600,
+    "DESERT":1,
+    "senior population":76
+  },
+  {
+    "GEOID":12011042400,
+    "DESERT":0,
+    "senior population":765
+  },
+  {
+    "GEOID":12011050205,
+    "DESERT":0,
+    "senior population":76
+  },
+  {
+    "GEOID":12011050701,
+    "DESERT":1,
+    "senior population":67
+  },
+  {
+    "GEOID":12011060107,
+    "DESERT":1,
+    "senior population":76
+  },
+  {
+    "GEOID":12011060125,
+    "DESERT":1,
+    "senior population":765
+  },
+  {
+    "GEOID":12011060211,
+    "DESERT":0,
+    "senior population":765
+  },
+  {
+    "GEOID":12011060603,
+    "DESERT":0,
+    "senior population":6765
+  },
+  {
+    "GEOID":12011070208,
+    "DESERT":0,
+    "senior population":98
+  },
+  {
+    "GEOID":12011070321,
+    "DESERT":0,
+    "senior population":765
+  },
+  {
+    "GEOID":12011080402,
+    "DESERT":0,
+    "senior population":97
+  },
+  {
+    "GEOID":12011090302,
+    "DESERT":1,
+    "senior population":897
+  },
+  {
+    "GEOID":12011090403,
+    "DESERT":1,
+    "senior population":8789
+  },
+  {
+    "GEOID":12011090503,
+    "DESERT":0,
+    "senior population":8
+  },
+  {
+    "GEOID":12011091901,
+    "DESERT":0,
+    "senior population":897
+  },
+  {
+    "GEOID":12011100202,
+    "DESERT":0,
+    "senior population":8
+  },
+  {
+    "GEOID":12011110309,
+    "DESERT":0,
+    "senior population":978
+  },
+  {
+    "GEOID":12011110332,
+    "DESERT":0,
+    "senior population":254
+  },
+  {
+    "GEOID":12011110402,
+    "DESERT":0,
+    "senior population":2354
+  },
+  {
+    "GEOID":12086000115,
+    "DESERT":0,
+    "senior population":5464
+  },
+  {
+    "GEOID":12086000140,
+    "DESERT":0,
+    "senior population":54
+  },
+  {
+    "GEOID":12086000206,
+    "DESERT":1,
+    "senior population":254
+  },
+  {
+    "GEOID":12086000219,
+    "DESERT":1,
+    "senior population":257
+  },
+  {
+    "GEOID":12086000411,
+    "DESERT":1,
+    "senior population":362
+  },
+  {
+    "GEOID":12086000706,
+    "DESERT":0,
+    "senior population":758
+  },
+  {
+    "GEOID":12086000807,
+    "DESERT":0,
+    "senior population":6453
+  },
+  {
+    "GEOID":12086001301,
+    "DESERT":1,
+    "senior population":24
+  },
+  {
+    "GEOID":12086001605,
+    "DESERT":0,
+    "senior population":254
+  },
+  {
+    "GEOID":12086002004,
+    "DESERT":0,
+    "senior population":245
+  },
+  {
+    "GEOID":12086002800,
+    "DESERT":1,
+    "senior population":35
+  },
+  {
+    "GEOID":12086003703,
+    "DESERT":0,
+    "senior population":35
+  },
+  {
+    "GEOID":12086003914,
+    "DESERT":0,
+    "senior population":635
+  },
+  {
+    "GEOID":12086004204,
+    "DESERT":0,
+    "senior population":345
+  },
+  {
+    "GEOID":12086004206,
+    "DESERT":1,
+    "senior population":6543
+  },
+  {
+    "GEOID":12086004405,
+    "DESERT":0,
+    "senior population":456
+  },
+  {
+    "GEOID":12086004605,
+    "DESERT":0,
+    "senior population":351
+  },
+  {
+    "GEOID":12086005202,
+    "DESERT":0,
+    "senior population":35
+  },
+  {
+    "GEOID":12086005501,
+    "DESERT":1,
+    "senior population":354
+  },
+  {
+    "GEOID":12086006205,
+    "DESERT":0,
+    "senior population":389
+  },
+  {
+    "GEOID":12086006705,
+    "DESERT":0,
+    "senior population":12445
+  },
+  {
+    "GEOID":12086007501,
+    "DESERT":0,
+    "senior population":245
+  },
+  {
+    "GEOID":12086007705,
+    "DESERT":0,
+    "senior population":78
+  },
+  {
+    "GEOID":12086008308,
+    "DESERT":2,
+    "senior population":132
+  },
+  {
+    "GEOID":12086008419,
+    "DESERT":0,
+    "senior population":315
+  },
+  {
+    "GEOID":12086008804,
+    "DESERT":1,
+    "senior population":1346.909853
+  },
+  {
+    "GEOID":12086009022,
+    "DESERT":1,
+    "senior population":1339.843949
+  },
+  {
+    "GEOID":12086009046,
+    "DESERT":0,
+    "senior population":1332.778045
+  },
+  {
+    "GEOID":12086009200,
+    "DESERT":0,
+    "senior population":1325.71214
+  },
+  {
+    "GEOID":12086009400,
+    "DESERT":1,
+    "senior population":1318.646236
+  },
+  {
+    "GEOID":12086009705,
+    "DESERT":0,
+    "senior population":1311.580332
+  },
+  {
+    "GEOID":12086009901,
+    "DESERT":0,
+    "senior population":1304.514427
+  },
+  {
+    "GEOID":12086009904,
+    "DESERT":2,
+    "senior population":1297.448523
+  },
+  {
+    "GEOID":12086010001,
+    "DESERT":0,
+    "senior population":1290.382619
+  },
+  {
+    "GEOID":12086010010,
+    "DESERT":1,
+    "senior population":1283.316714
+  },
+  {
+    "GEOID":12086010210,
+    "DESERT":0,
+    "senior population":1276.25081
+  },
+  {
+    "GEOID":12086010614,
+    "DESERT":1,
+    "senior population":1269.184906
+  },
+  {
+    "GEOID":12086011300,
+    "DESERT":1,
+    "senior population":1262.119001
+  },
+  {
+    "GEOID":12086012900,
+    "DESERT":0,
+    "senior population":1255.053097
+  },
+  {
+    "GEOID":12086013700,
+    "DESERT":1,
+    "senior population":1247.987193
+  },
+  {
+    "GEOID":12086015200,
+    "DESERT":0,
+    "senior population":1240.921288
+  },
+  {
+    "GEOID":12086016500,
+    "DESERT":0,
+    "senior population":1233.855384
+  },
+  {
+    "GEOID":12086017800,
+    "DESERT":0,
+    "senior population":1226.78948
+  },
+  {
+    "GEOID":12086019100,
+    "DESERT":0,
+    "senior population":1219.723575
+  },
+  {
+    "GEOID":12086020100,
+    "DESERT":0,
+    "senior population":1212.657671
+  },
+  {
+    "GEOID":12099000102,
+    "DESERT":0,
+    "senior population":1205.591767
+  },
+  {
+    "GEOID":12099000405,
+    "DESERT":0,
+    "senior population":1198.525862
+  },
+  {
+    "GEOID":12099000702,
+    "DESERT":0,
+    "senior population":1191.459958
+  },
+  {
+    "GEOID":12099001003,
+    "DESERT":0,
+    "senior population":1184.394054
+  },
+  {
+    "GEOID":12099001700,
+    "DESERT":1,
+    "senior population":1177.328149
+  },
+  {
+    "GEOID":12099001909,
+    "DESERT":0,
+    "senior population":1170.262245
+  },
+  {
+    "GEOID":12099001914,
+    "DESERT":0,
+    "senior population":1163.196341
+  },
+  {
+    "GEOID":12099002400,
+    "DESERT":0,
+    "senior population":1156.130436
+  },
+  {
+    "GEOID":12099003800,
+    "DESERT":0,
+    "senior population":1149.064532
+  },
+  {
+    "GEOID":12099004402,
+    "DESERT":1,
+    "senior population":1141.998628
+  },
+  {
+    "GEOID":12099004811,
+    "DESERT":0,
+    "senior population":1134.932723
+  },
+  {
+    "GEOID":12099005102,
+    "DESERT":1,
+    "senior population":1127.866819
+  },
+  {
+    "GEOID":12099005602,
+    "DESERT":0,
+    "senior population":1120.800915
+  },
+  {
+    "GEOID":12099005903,
+    "DESERT":0,
+    "senior population":1113.73501
+  },
+  {
+    "GEOID":12099005937,
+    "DESERT":0,
+    "senior population":1106.669106
+  },
+  {
+    "GEOID":12099005949,
+    "DESERT":0,
+    "senior population":1099.603202
+  },
+  {
+    "GEOID":12099006010,
+    "DESERT":0,
+    "senior population":1092.537298
+  },
+  {
+    "GEOID":12099006802,
+    "DESERT":1,
+    "senior population":1085.471393
+  },
+  {
+    "GEOID":12099006912,
+    "DESERT":0,
+    "senior population":1078.405489
+  },
+  {
+    "GEOID":12099007416,
+    "DESERT":0,
+    "senior population":1071.339585
+  },
+  {
+    "GEOID":12099007602,
+    "DESERT":1,
+    "senior population":1064.27368
+  },
+  {
+    "GEOID":12099007614,
+    "DESERT":0,
+    "senior population":1057.207776
+  },
+  {
+    "GEOID":12099007738,
+    "DESERT":0,
+    "senior population":1050.141872
+  },
+  {
+    "GEOID":12099007741,
+    "DESERT":0,
+    "senior population":1043.075967
+  },
+  {
+    "GEOID":12099007742,
+    "DESERT":0,
+    "senior population":1036.010063
+  },
+  {
+    "GEOID":12099007762,
+    "DESERT":0,
+    "senior population":1028.944159
+  },
+  {
+    "GEOID":12099007813,
+    "DESERT":0,
+    "senior population":1021.878254
+  },
+  {
+    "GEOID":12099007838,
+    "DESERT":0,
+    "senior population":1014.81235
+  },
+  {
+    "GEOID":12086000118,
+    "DESERT":0,
+    "senior population":1007.746446
+  },
+  {
+    "GEOID":12086000121,
+    "DESERT":0,
+    "senior population":1000.680541
+  },
+  {
+    "GEOID":12086000126,
+    "DESERT":0,
+    "senior population":993.6146369
+  },
+  {
+    "GEOID":12086000202,
+    "DESERT":0,
+    "senior population":986.5487326
+  },
+  {
+    "GEOID":12086000217,
+    "DESERT":1,
+    "senior population":979.4828283
+  },
+  {
+    "GEOID":12086000305,
+    "DESERT":1,
+    "senior population":972.416924
+  },
+  {
+    "GEOID":12086000410,
+    "DESERT":1,
+    "senior population":965.3510196
+  },
+  {
+    "GEOID":12086000504,
+    "DESERT":1,
+    "senior population":958.2851153
+  },
+  {
+    "GEOID":12086000608,
+    "DESERT":1,
+    "senior population":951.219211
+  },
+  {
+    "GEOID":12086000710,
+    "DESERT":0,
+    "senior population":944.1533067
+  },
+  {
+    "GEOID":12086001003,
+    "DESERT":1,
+    "senior population":937.0874023
+  },
+  {
+    "GEOID":12086001103,
+    "DESERT":1,
+    "senior population":930.021498
+  },
+  {
+    "GEOID":12086001302,
+    "DESERT":1,
+    "senior population":922.9555937
+  },
+  {
+    "GEOID":12086001603,
+    "DESERT":0,
+    "senior population":915.8896893
+  },
+  {
+    "GEOID":12086001606,
+    "DESERT":0,
+    "senior population":908.823785
+  },
+  {
+    "GEOID":12086001901,
+    "DESERT":1,
+    "senior population":901.7578807
+  },
+  {
+    "GEOID":12086002003,
+    "DESERT":0,
+    "senior population":894.6919764
+  },
+  {
+    "GEOID":12086002403,
+    "DESERT":0,
+    "senior population":887.626072
+  },
+  {
+    "GEOID":12086002705,
+    "DESERT":0,
+    "senior population":880.5601677
+  },
+  {
+    "GEOID":12086003400,
+    "DESERT":1,
+    "senior population":873.4942634
+  },
+  {
+    "GEOID":12086003704,
+    "DESERT":0,
+    "senior population":866.4283591
+  },
+  {
+    "GEOID":12086003909,
+    "DESERT":1,
+    "senior population":859.3624547
+  },
+  {
+    "GEOID":12086003922,
+    "DESERT":0,
+    "senior population":852.2965504
+  },
+  {
+    "GEOID":12086004902,
+    "DESERT":1,
+    "senior population":845.2306461
+  },
+  {
+    "GEOID":12086005302,
+    "DESERT":0,
+    "senior population":838.1647418
+  },
+  {
+    "GEOID":12086005406,
+    "DESERT":1,
+    "senior population":831.0988374
+  },
+  {
+    "GEOID":12086005703,
+    "DESERT":1,
+    "senior population":824.0329331
+  },
+  {
+    "GEOID":12086005903,
+    "DESERT":1,
+    "senior population":816.9670288
+  },
+  {
+    "GEOID":12086006102,
+    "DESERT":0,
+    "senior population":809.9011245
+  },
+  {
+    "GEOID":12086006401,
+    "DESERT":1,
+    "senior population":802.8352201
+  },
+  {
+    "GEOID":12086006504,
+    "DESERT":0,
+    "senior population":795.7693158
+  },
+  {
+    "GEOID":12086006707,
+    "DESERT":0,
+    "senior population":788.7034115
+  },
+  {
+    "GEOID":12086006714,
+    "DESERT":0,
+    "senior population":781.6375071
+  },
+  {
+    "GEOID":12086007101,
+    "DESERT":1,
+    "senior population":774.5716028
+  },
+  {
+    "GEOID":12086007601,
+    "DESERT":0,
+    "senior population":767.5056985
+  },
+  {
+    "GEOID":12086007704,
+    "DESERT":0,
+    "senior population":760.4397942
+  },
+  {
+    "GEOID":12086007902,
+    "DESERT":0,
+    "senior population":753.3738898
+  },
+  {
+    "GEOID":12086008304,
+    "DESERT":2,
+    "senior population":746.3079855
+  },
+  {
+    "GEOID":12086008412,
+    "DESERT":0,
+    "senior population":739.2420812
+  },
+  {
+    "GEOID":12086008418,
+    "DESERT":0,
+    "senior population":732.1761769
+  },
+  {
+    "GEOID":12086008805,
+    "DESERT":0,
+    "senior population":725.1102725
+  },
+  {
+    "GEOID":12086009015,
+    "DESERT":1,
+    "senior population":718.0443682
+  },
+  {
+    "GEOID":12086009021,
+    "DESERT":1,
+    "senior population":710.9784639
+  },
+  {
+    "GEOID":12086009027,
+    "DESERT":2,
+    "senior population":703.9125596
+  },
+  {
+    "GEOID":12086009036,
+    "DESERT":0,
+    "senior population":696.8466552
+  },
+  {
+    "GEOID":12086009044,
+    "DESERT":0,
+    "senior population":689.7807509
+  },
+  {
+    "GEOID":12086009307,
+    "DESERT":0,
+    "senior population":682.7148466
+  },
+  {
+    "GEOID":12086009312,
+    "DESERT":0,
+    "senior population":675.6489423
+  },
+  {
+    "GEOID":12086010006,
+    "DESERT":0,
+    "senior population":668.5830379
+  },
+  {
+    "GEOID":12086010013,
+    "DESERT":0,
+    "senior population":661.5171336
+  },
+  {
+    "GEOID":12086010209,
+    "DESERT":0,
+    "senior population":654.4512293
+  },
+  {
+    "GEOID":12086010608,
+    "DESERT":0,
+    "senior population":647.3853249
+  },
+  {
+    "GEOID":12086010801,
+    "DESERT":0,
+    "senior population":640.3194206
+  },
+  {
+    "GEOID":12086011008,
+    "DESERT":0,
+    "senior population":633.2535163
+  },
+  {
+    "GEOID":12086011600,
+    "DESERT":0,
+    "senior population":626.187612
+  },
+  {
+    "GEOID":12086012300,
+    "DESERT":0,
+    "senior population":619.1217076
+  },
+  {
+    "GEOID":12086013000,
+    "DESERT":0,
+    "senior population":612.0558033
+  },
+  {
+    "GEOID":12086014300,
+    "DESERT":0,
+    "senior population":604.989899
+  },
+  {
+    "GEOID":12086014600,
+    "DESERT":0,
+    "senior population":597.9239947
+  },
+  {
+    "GEOID":12086015300,
+    "DESERT":0,
+    "senior population":590.8580903
+  },
+  {
+    "GEOID":12086015800,
+    "DESERT":0,
+    "senior population":583.792186
+  },
+  {
+    "GEOID":12086015900,
+    "DESERT":0,
+    "senior population":576.7262817
+  },
+  {
+    "GEOID":12086016600,
+    "DESERT":0,
+    "senior population":569.6603774
+  },
+  {
+    "GEOID":12086017100,
+    "DESERT":2,
+    "senior population":562.594473
+  },
+  {
+    "GEOID":12086017700,
+    "DESERT":1,
+    "senior population":555.5285687
+  },
+  {
+    "GEOID":12086018200,
+    "DESERT":0,
+    "senior population":548.4626644
+  },
+  {
+    "GEOID":12086019400,
+    "DESERT":0,
+    "senior population":541.3967601
+  },
+  {
+    "GEOID":12086490100,
+    "DESERT":0,
+    "senior population":534.3308557
+  },
+  {
+    "GEOID":12086980600,
+    "DESERT":0,
+    "senior population":527.2649514
+  },
+  {
+    "GEOID":12099000205,
+    "DESERT":0,
+    "senior population":520.1990471
+  },
+  {
+    "GEOID":12099000213,
+    "DESERT":0,
+    "senior population":513.1331427
+  },
+  {
+    "GEOID":12099000408,
+    "DESERT":0,
+    "senior population":506.0672384
+  },
+  {
+    "GEOID":12099000804,
+    "DESERT":0,
+    "senior population":499.0013341
+  },
+  {
+    "GEOID":12099001002,
+    "DESERT":2,
+    "senior population":491.9354298
+  },
+  {
+    "GEOID":12099001302,
+    "DESERT":1,
+    "senior population":484.8695254
+  },
+  {
+    "GEOID":12099002600,
+    "DESERT":0,
+    "senior population":477.8036211
+  },
+  {
+    "GEOID":12099002900,
+    "DESERT":1,
+    "senior population":470.7377168
+  },
+  {
+    "GEOID":12099003504,
+    "DESERT":0,
+    "senior population":463.6718125
+  },
+  {
+    "GEOID":12099003901,
+    "DESERT":2,
+    "senior population":456.6059081
+  },
+  {
+    "GEOID":12099004009,
+    "DESERT":0,
+    "senior population":449.5400038
+  },
+  {
+    "GEOID":12099004102,
+    "DESERT":1,
+    "senior population":442.4740995
+  },
+  {
+    "GEOID":12099004401,
+    "DESERT":0,
+    "senior population":435.4081952
+  },
+  {
+    "GEOID":12099004705,
+    "DESERT":1,
+    "senior population":428.3422908
+  },
+  {
+    "GEOID":12099004819,
+    "DESERT":0,
+    "senior population":421.2763865
+  },
+  {
+    "GEOID":12099005202,
+    "DESERT":1,
+    "senior population":414.2104822
+  },
+  {
+    "GEOID":12099005601,
+    "DESERT":1,
+    "senior population":407.1445779
+  },
+  {
+    "GEOID":12099005812,
+    "DESERT":2,
+    "senior population":400.0786735
+  },
+  {
+    "GEOID":12099005817,
+    "DESERT":0,
+    "senior population":393.0127692
+  },
+  {
+    "GEOID":12099005922,
+    "DESERT":0,
+    "senior population":385.9468649
+  },
+  {
+    "GEOID":12011010102,
+    "DESERT":0,
+    "senior population":378.8809605
+  },
+  {
+    "GEOID":12011010304,
+    "DESERT":1,
+    "senior population":371.8150562
+  },
+  {
+    "GEOID":12011010401,
+    "DESERT":0,
+    "senior population":364.7491519
+  },
+  {
+    "GEOID":12011010405,
+    "DESERT":2,
+    "senior population":357.6832476
+  },
+  {
+    "GEOID":12011010604,
+    "DESERT":0,
+    "senior population":350.6173432
+  },
+  {
+    "GEOID":12011010610,
+    "DESERT":0,
+    "senior population":343.5514389
+  },
+  {
+    "GEOID":12011011000,
+    "DESERT":0,
+    "senior population":336.4855346
+  },
+  {
+    "GEOID":12011020211,
+    "DESERT":0,
+    "senior population":329.4196303
+  },
+  {
+    "GEOID":12011020308,
+    "DESERT":1,
+    "senior population":322.3537259
+  },
+  {
+    "GEOID":12011020316,
+    "DESERT":0,
+    "senior population":315.2878216
+  },
+  {
+    "GEOID":12011020326,
+    "DESERT":0,
+    "senior population":308.2219173
+  },
+  {
+    "GEOID":12011020414,
+    "DESERT":0,
+    "senior population":301.156013
+  },
+  {
+    "GEOID":12011031101,
+    "DESERT":0,
+    "senior population":294.0901086
+  },
+  {
+    "GEOID":12099005942,
+    "DESERT":0,
+    "senior population":287.0242043
+  },
+  {
+    "GEOID":12099005945,
+    "DESERT":0,
+    "senior population":279.9583
+  },
+  {
+    "GEOID":12099005951,
+    "DESERT":0,
+    "senior population":272.8923957
+  },
+  {
+    "GEOID":12099005956,
+    "DESERT":0,
+    "senior population":265.8264913
+  },
+  {
+    "GEOID":12099006009,
+    "DESERT":0,
+    "senior population":258.760587
+  },
+  {
+    "GEOID":12099006201,
+    "DESERT":1,
+    "senior population":251.6946827
+  },
+  {
+    "GEOID":12099006502,
+    "DESERT":1,
+    "senior population":244.6287783
+  },
+  {
+    "GEOID":12099006700,
+    "DESERT":1,
+    "senior population":237.562874
+  },
+  {
+    "GEOID":12099006909,
+    "DESERT":0,
+    "senior population":230.4969697
+  },
+  {
+    "GEOID":12099007008,
+    "DESERT":0,
+    "senior population":223.4310654
+  },
+  {
+    "GEOID":12099007613,
+    "DESERT":0,
+    "senior population":216.365161
+  },
+  {
+    "GEOID":12099007710,
+    "DESERT":0,
+    "senior population":209.2992567
+  },
+  {
+    "GEOID":12099007731,
+    "DESERT":0,
+    "senior population":202.2333524
+  },
+  {
+    "GEOID":12099007739,
+    "DESERT":0,
+    "senior population":195.1674481
+  },
+  {
+    "GEOID":12099007751,
+    "DESERT":0,
+    "senior population":188.1015437
+  },
+  {
+    "GEOID":12011040401,
+    "DESERT":0,
+    "senior population":181.0356394
+  },
+  {
+    "GEOID":12011040701,
+    "DESERT":0,
+    "senior population":173.9697351
+  },
+  {
+    "GEOID":12011040802,
+    "DESERT":1,
+    "senior population":166.9038308
+  },
+  {
+    "GEOID":12011041500,
+    "DESERT":0,
+    "senior population":159.8379264
+  },
+  {
+    "GEOID":12011041900,
+    "DESERT":0,
+    "senior population":152.7720221
+  },
+  {
+    "GEOID":12011042500,
+    "DESERT":0,
+    "senior population":145.7061178
+  },
+  {
+    "GEOID":12011043301,
+    "DESERT":0,
+    "senior population":138.6402135
+  },
+  {
+    "GEOID":12011050301,
+    "DESERT":0,
+    "senior population":131.5743091
+  },
+  {
+    "GEOID":12011050312,
+    "DESERT":1,
+    "senior population":124.5084048
+  },
+  {
+    "GEOID":12011051001,
+    "DESERT":0,
+    "senior population":117.4425005
+  },
+  {
+    "GEOID":12011060109,
+    "DESERT":0,
+    "senior population":110.3765962
+  },
+  {
+    "GEOID":12011060118,
+    "DESERT":0,
+    "senior population":103.3106918
+  },
+  {
+    "GEOID":12011060126,
+    "DESERT":0,
+    "senior population":96.2447875
+  },
+  {
+    "GEOID":12011060209,
+    "DESERT":0,
+    "senior population":89.17888317
+  },
+  {
+    "GEOID":12011060303,
+    "DESERT":1,
+    "senior population":82.11297885
+  },
+  {
+    "GEOID":12099007765,
+    "DESERT":0,
+    "senior population":75.04707452
+  },
+  {
+    "GEOID":12099007814,
+    "DESERT":0,
+    "senior population":67.98117019
+  },
+  {
+    "GEOID":12099007830,
+    "DESERT":0,
+    "senior population":60.91526587
+  },
+  {
+    "GEOID":12099007835,
+    "DESERT":0,
+    "senior population":53.84936154
+  },
+  {
+    "GEOID":12099008002,
+    "DESERT":2,
+    "senior population":46.78345721
+  },
+  {
+    "GEOID":12099980000,
+    "DESERT":0,
+    "senior population":39.71755289
+  },
+  {
+    "GEOID":12011060503,
+    "DESERT":0,
+    "senior population":32.65164856
+  },
+  {
+    "GEOID":12011060700,
+    "DESERT":1,
+    "senior population":25.58574423
+  },
+  {
+    "GEOID":12011070102,
+    "DESERT":0,
+    "senior population":18.51983991
+  },
+  {
+    "GEOID":12011070304,
+    "DESERT":0,
+    "senior population":11.45393558
+  },
+  {
+    "GEOID":12011070313,
+    "DESERT":0,
+    "senior population":4.388031256
+  },
+  {
+    "GEOID":12011070322,
+    "DESERT":0,
+    "senior population":-2.67787307
+  },
+  {
+    "GEOID":12011070405,
+    "DESERT":0,
+    "senior population":-9.743777397
+  },
+  {
+    "GEOID":12011090602,
+    "DESERT":1,
+    "senior population":-16.80968172
+  },
+  {
+    "GEOID":12011091100,
+    "DESERT":1,
+    "senior population":-23.87558605
+  },
+  {
+    "GEOID":12011091801,
+    "DESERT":1,
+    "senior population":-30.94149038
+  },
+  {
+    "GEOID":12011100103,
+    "DESERT":0,
+    "senior population":-38.0073947
+  },
+  {
+    "GEOID":12011100802,
+    "DESERT":2,
+    "senior population":-45.07329903
+  },
+  {
+    "GEOID":12011110312,
+    "DESERT":0,
+    "senior population":-52.13920335
+  },
+  {
+    "GEOID":12011110330,
+    "DESERT":0,
+    "senior population":-59.20510768
+  },
+  {
+    "GEOID":12011110335,
+    "DESERT":1,
+    "senior population":-66.27101201
+  },
+  {
+    "GEOID":12011110340,
+    "DESERT":1,
+    "senior population":-73.33691633
+  },
+  {
+    "GEOID":12011110403,
+    "DESERT":0,
+    "senior population":-80.40282066
+  },
+  {
+    "GEOID":12086000130,
+    "DESERT":0,
+    "senior population":-87.46872499
+  },
+  {
+    "GEOID":12086000212,
+    "DESERT":0,
+    "senior population":-94.53462931
+  },
+  {
+    "GEOID":12086000307,
+    "DESERT":1,
+    "senior population":-101.6005336
+  },
+  {
+    "GEOID":12086000503,
+    "DESERT":1,
+    "senior population":-108.666438
+  },
+  {
+    "GEOID":12086000707,
+    "DESERT":0,
+    "senior population":-115.7323423
+  },
+  {
+    "GEOID":12086000903,
+    "DESERT":1,
+    "senior population":-122.7982466
+  },
+  {
+    "GEOID":12086001502,
+    "DESERT":0,
+    "senior population":-129.8641509
+  },
+  {
+    "GEOID":12086002703,
+    "DESERT":0,
+    "senior population":-136.9300553
+  },
+  {
+    "GEOID":12086003801,
+    "DESERT":0,
+    "senior population":-143.9959596
+  },
+  {
+    "GEOID":12086004103,
+    "DESERT":1,
+    "senior population":-151.0618639
+  },
+  {
+    "GEOID":12086004301,
+    "DESERT":0,
+    "senior population":-158.1277682
+  },
+  {
+    "GEOID":12086004607,
+    "DESERT":0,
+    "senior population":-165.1936726
+  },
+  {
+    "GEOID":12086005103,
+    "DESERT":1,
+    "senior population":-172.2595769
+  },
+  {
+    "GEOID":12086005403,
+    "DESERT":0,
+    "senior population":-179.3254812
+  },
+  {
+    "GEOID":12086005704,
+    "DESERT":1,
+    "senior population":-186.3913856
+  },
+  {
+    "GEOID":12086006709,
+    "DESERT":0,
+    "senior population":-193.4572899
+  },
+  {
+    "GEOID":12086007603,
+    "DESERT":1,
+    "senior population":-200.5231942
+  },
+  {
+    "GEOID":12086008101,
+    "DESERT":0,
+    "senior population":-207.5890985
+  },
+  {
+    "GEOID":12086008309,
+    "DESERT":2,
+    "senior population":-214.6550029
+  },
+  {
+    "GEOID":12086008415,
+    "DESERT":0,
+    "senior population":-221.7209072
+  },
+  {
+    "GEOID":12086008803,
+    "DESERT":0,
+    "senior population":-228.7868115
+  },
+  {
+    "GEOID":12086008906,
+    "DESERT":0,
+    "senior population":-235.8527158
+  },
+  {
+    "GEOID":12086009043,
+    "DESERT":0,
+    "senior population":-242.9186202
+  },
+  {
+    "GEOID":12086009503,
+    "DESERT":1,
+    "senior population":-249.9845245
+  },
+  {
+    "GEOID":12086009905,
+    "DESERT":0,
+    "senior population":-257.0504288
+  },
+  {
+    "GEOID":12086010012,
+    "DESERT":0,
+    "senior population":-264.1163331
+  },
+  {
+    "GEOID":12086010205,
+    "DESERT":0,
+    "senior population":-271.1822375
+  },
+  {
+    "GEOID":12086011005,
+    "DESERT":1,
+    "senior population":-278.2481418
+  },
+  {
+    "GEOID":12086011404,
+    "DESERT":0,
+    "senior population":-285.3140461
+  },
+  {
+    "GEOID":12086012200,
+    "DESERT":0,
+    "senior population":-292.3799504
+  },
+  {
+    "GEOID":12086013200,
+    "DESERT":0,
+    "senior population":-299.4458548
+  },
+  {
+    "GEOID":12086015000,
+    "DESERT":0,
+    "senior population":-306.5117591
+  },
+  {
+    "GEOID":12086017500,
+    "DESERT":0,
+    "senior population":-313.5776634
+  },
+  {
+    "GEOID":12086019000,
+    "DESERT":0,
+    "senior population":-320.6435678
+  },
+  {
+    "GEOID":12086020300,
+    "DESERT":0,
+    "senior population":-327.7094721
+  },
+  {
+    "GEOID":12099000204,
+    "DESERT":0,
+    "senior population":-334.7753764
+  },
+  {
+    "GEOID":12099000410,
+    "DESERT":0,
+    "senior population":-341.8412807
+  },
+  {
+    "GEOID":12099000902,
+    "DESERT":0,
+    "senior population":-348.9071851
+  },
+  {
+    "GEOID":12099001801,
+    "DESERT":1,
+    "senior population":-355.9730894
+  },
+  {
+    "GEOID":12099001915,
+    "DESERT":0,
+    "senior population":-363.0389937
+  },
+  {
+    "GEOID":12099004008,
+    "DESERT":1,
+    "senior population":-370.104898
+  },
+  {
+    "GEOID":12099004810,
+    "DESERT":0,
+    "senior population":-377.1708024
+  },
+  {
+    "GEOID":12099004818,
+    "DESERT":0,
+    "senior population":-384.2367067
+  },
+  {
+    "GEOID":12099005502,
+    "DESERT":0,
+    "senior population":-391.302611
+  },
+  {
+    "GEOID":12099005811,
+    "DESERT":0,
+    "senior population":-398.3685153
+  },
+  {
+    "GEOID":12099005923,
+    "DESERT":0,
+    "senior population":-405.4344197
+  },
+  {
+    "GEOID":12099005943,
+    "DESERT":1,
+    "senior population":-412.500324
+  },
+  {
+    "GEOID":12099006907,
+    "DESERT":0,
+    "senior population":-419.5662283
+  },
+  {
+    "GEOID":12099007302,
+    "DESERT":0,
+    "senior population":-426.6321326
+  },
+  {
+    "GEOID":12099007505,
+    "DESERT":0,
+    "senior population":-433.698037
+  },
+  {
+    "GEOID":12099007733,
+    "DESERT":0,
+    "senior population":-440.7639413
+  },
+  {
+    "GEOID":12099007743,
+    "DESERT":0,
+    "senior population":-447.8298456
+  },
+  {
+    "GEOID":12099007756,
+    "DESERT":0,
+    "senior population":-454.89575
+  },
+  {
+    "GEOID":12099007909,
+    "DESERT":0,
+    "senior population":-461.9616543
+  },
+  {
+    "GEOID":12011010605,
+    "DESERT":0,
+    "senior population":-469.0275586
+  },
+  {
+    "GEOID":12011010800,
+    "DESERT":0,
+    "senior population":-476.0934629
+  },
+  {
+    "GEOID":12011020309,
+    "DESERT":0,
+    "senior population":-483.1593673
+  },
+  {
+    "GEOID":12011020317,
+    "DESERT":0,
+    "senior population":-490.2252716
+  },
+  {
+    "GEOID":12011020405,
+    "DESERT":2,
+    "senior population":-497.2911759
+  },
+  {
+    "GEOID":12011020501,
+    "DESERT":0,
+    "senior population":-504.3570802
+  },
+  {
+    "GEOID":12011030802,
+    "DESERT":0,
+    "senior population":-511.4229846
+  },
+  {
+    "GEOID":12011031203,
+    "DESERT":0,
+    "senior population":-518.4888889
+  },
+  {
+    "GEOID":12011041300,
+    "DESERT":2,
+    "senior population":-525.5547932
+  },
+  {
+    "GEOID":12011050309,
+    "DESERT":0,
+    "senior population":-532.6206975
+  },
+  {
+    "GEOID":12011050401,
+    "DESERT":0,
+    "senior population":-539.6866019
+  },
+  {
+    "GEOID":12011060112,
+    "DESERT":1,
+    "senior population":-546.7525062
+  },
+  {
+    "GEOID":12011060123,
+    "DESERT":0,
+    "senior population":-553.8184105
+  },
+  {
+    "GEOID":12011060210,
+    "DESERT":0,
+    "senior population":-560.8843148
+  },
+  {
+    "GEOID":12011060305,
+    "DESERT":0,
+    "senior population":-567.9502192
+  },
+  {
+    "GEOID":12011070205,
+    "DESERT":0,
+    "senior population":-575.0161235
+  },
+  {
+    "GEOID":12011070404,
+    "DESERT":0,
+    "senior population":-582.0820278
+  },
+  {
+    "GEOID":12011080103,
+    "DESERT":0,
+    "senior population":-589.1479322
+  },
+  {
+    "GEOID":12011090301,
+    "DESERT":1,
+    "senior population":-596.2138365
+  },
+  {
+    "GEOID":12011090601,
+    "DESERT":0,
+    "senior population":-603.2797408
+  },
+  {
+    "GEOID":12011091802,
+    "DESERT":0,
+    "senior population":-610.3456451
+  },
+  {
+    "GEOID":12011100105,
+    "DESERT":0,
+    "senior population":-617.4115495
+  },
+  {
+    "GEOID":12011100502,
+    "DESERT":1,
+    "senior population":-624.4774538
+  },
+  {
+    "GEOID":12011110311,
+    "DESERT":0,
+    "senior population":-631.5433581
+  },
+  {
+    "GEOID":12011110328,
+    "DESERT":0,
+    "senior population":-638.6092624
+  },
+  {
+    "GEOID":12011010306,
+    "DESERT":1,
+    "senior population":-645.6751668
+  },
+  {
+    "GEOID":12011020212,
+    "DESERT":1,
+    "senior population":-652.7410711
+  },
+  {
+    "GEOID":12011020409,
+    "DESERT":2,
+    "senior population":-659.8069754
+  },
+  {
+    "GEOID":12011030302,
+    "DESERT":1,
+    "senior population":-666.8728797
+  },
+  {
+    "GEOID":12011031102,
+    "DESERT":0,
+    "senior population":-673.9387841
+  },
+  {
+    "GEOID":12011050311,
+    "DESERT":1,
+    "senior population":-681.0046884
+  },
+  {
+    "GEOID":12011060117,
+    "DESERT":0,
+    "senior population":-688.0705927
+  },
+  {
+    "GEOID":12011090200,
+    "DESERT":0,
+    "senior population":-695.136497
+  },
+  {
+    "GEOID":12011100104,
+    "DESERT":1,
+    "senior population":-702.2024014
+  },
+  {
+    "GEOID":12086000133,
+    "DESERT":0,
+    "senior population":-709.2683057
+  },
+  {
+    "GEOID":12086000306,
+    "DESERT":0,
+    "senior population":-716.33421
+  },
+  {
+    "GEOID":12086002600,
+    "DESERT":1,
+    "senior population":-723.4001144
+  },
+  {
+    "GEOID":12086004404,
+    "DESERT":0,
+    "senior population":-730.4660187
+  },
+  {
+    "GEOID":12086006503,
+    "DESERT":0,
+    "senior population":-737.531923
+  },
+  {
+    "GEOID":12086007807,
+    "DESERT":0,
+    "senior population":-744.5978273
+  },
+  {
+    "GEOID":12086009038,
+    "DESERT":0,
+    "senior population":-751.6637317
+  },
+  {
+    "GEOID":12086010015,
+    "DESERT":2,
+    "senior population":-758.729636
+  },
+  {
+    "GEOID":12086014200,
+    "DESERT":0,
+    "senior population":-765.7955403
+  },
+  {
+    "GEOID":12086980200,
+    "DESERT":0,
+    "senior population":-772.8614446
+  },
+  {
+    "GEOID":12099000905,
+    "DESERT":0,
+    "senior population":-779.927349
+  },
+  {
+    "GEOID":12099001916,
+    "DESERT":0,
+    "senior population":-786.9932533
+  },
+  {
+    "GEOID":12099005807,
+    "DESERT":0,
+    "senior population":-794.0591576
+  },
+  {
+    "GEOID":12099007202,
+    "DESERT":0,
+    "senior population":-801.1250619
+  },
+  {
+    "GEOID":12099007610,
+    "DESERT":0,
+    "senior population":-808.1909663
+  },
+  {
+    "GEOID":12099007823,
+    "DESERT":0,
+    "senior population":-815.2568706
+  },
+  {
+    "GEOID":12086006206,
+    "DESERT":0,
+    "senior population":-822.3227749
+  },
+  {
+    "GEOID":12086007503,
+    "DESERT":0,
+    "senior population":-829.3886792
+  },
+  {
+    "GEOID":12086008502,
+    "DESERT":0,
+    "senior population":-836.4545836
+  },
+  {
+    "GEOID":12086009020,
+    "DESERT":0,
+    "senior population":-843.5204879
+  },
+  {
+    "GEOID":12086009031,
+    "DESERT":0,
+    "senior population":-850.5863922
+  },
+  {
+    "GEOID":12086009906,
+    "DESERT":0,
+    "senior population":-857.6522966
+  },
+  {
+    "GEOID":12086010193,
+    "DESERT":0,
+    "senior population":-864.7182009
+  },
+  {
+    "GEOID":12086012000,
+    "DESERT":1,
+    "senior population":-871.7841052
+  },
+  {
+    "GEOID":12086013500,
+    "DESERT":0,
+    "senior population":-878.8500095
+  },
+  {
+    "GEOID":12086015100,
+    "DESERT":0,
+    "senior population":-885.9159139
+  },
+  {
+    "GEOID":12086017400,
+    "DESERT":0,
+    "senior population":-892.9818182
+  },
+  {
+    "GEOID":12086000129,
+    "DESERT":0,
+    "senior population":-900.0477225
+  },
+  {
+    "GEOID":12086000602,
+    "DESERT":0,
+    "senior population":-907.1136268
+  },
+  {
+    "GEOID":12086001102,
+    "DESERT":0,
+    "senior population":-914.1795312
+  },
+  {
+    "GEOID":12086002300,
+    "DESERT":1,
+    "senior population":-921.2454355
+  },
+  {
+    "GEOID":12086003707,
+    "DESERT":1,
+    "senior population":-928.3113398
+  },
+  {
+    "GEOID":12099008102,
+    "DESERT":0,
+    "senior population":-935.3772441
+  },
+  {
+    "GEOID":12011060505,
+    "DESERT":1,
+    "senior population":-942.4431485
+  },
+  {
+    "GEOID":12011070210,
+    "DESERT":0,
+    "senior population":-949.5090528
+  },
+  {
+    "GEOID":12011070602,
+    "DESERT":0,
+    "senior population":-956.5749571
+  },
+  {
+    "GEOID":12011100201,
+    "DESERT":0,
+    "senior population":-963.6408614
+  },
+  {
+    "GEOID":12011110343,
+    "DESERT":0,
+    "senior population":-970.7067658
+  },
+  {
+    "GEOID":12099003511,
+    "DESERT":0,
+    "senior population":-977.7726701
+  },
+  {
+    "GEOID":12099004816,
+    "DESERT":0,
+    "senior population":-984.8385744
+  },
+  {
+    "GEOID":12099005933,
+    "DESERT":1,
+    "senior population":-991.9044787
+  },
+  {
+    "GEOID":12011010406,
+    "DESERT":0,
+    "senior population":-998.9703831
+  },
+  {
+    "GEOID":12011020207,
+    "DESERT":0,
+    "senior population":-1006.036287
+  },
+  {
+    "GEOID":12099005939,
+    "DESERT":0,
+    "senior population":-1013.102192
+  },
+  {
+    "GEOID":12099006011,
+    "DESERT":0,
+    "senior population":-1020.168096
+  },
+  {
+    "GEOID":12099007203,
+    "DESERT":1,
+    "senior population":-1027.234
+  },
+  {
+    "GEOID":12011043001,
+    "DESERT":0,
+    "senior population":-1034.299905
+  },
+  {
+    "GEOID":12011050702,
+    "DESERT":1,
+    "senior population":-1041.365809
+  },
+  {
+    "GEOID":12099007820,
+    "DESERT":0,
+    "senior population":-1048.431713
+  },
+  {
+    "GEOID":12099007007,
+    "DESERT":0,
+    "senior population":-1055.497618
+  },
+  {
+    "GEOID":12011042900,
+    "DESERT":1,
+    "senior population":-1062.563522
+  },
+  {
+    "GEOID":12011010103,
+    "DESERT":0,
+    "senior population":-1069.629426
+  },
+  {
+    "GEOID":12011010407,
+    "DESERT":0,
+    "senior population":-1076.695331
+  },
+  {
+    "GEOID":12011010503,
+    "DESERT":0,
+    "senior population":-1083.761235
+  },
+  {
+    "GEOID":12011010611,
+    "DESERT":0,
+    "senior population":-1090.827139
+  },
+  {
+    "GEOID":12011010902,
+    "DESERT":0,
+    "senior population":-1097.893044
+  },
+  {
+    "GEOID":12011020206,
+    "DESERT":0,
+    "senior population":-1104.958948
+  },
+  {
+    "GEOID":12011020210,
+    "DESERT":0,
+    "senior population":-1112.024852
+  },
+  {
+    "GEOID":12011020315,
+    "DESERT":0,
+    "senior population":-1119.090757
+  },
+  {
+    "GEOID":12011020318,
+    "DESERT":0,
+    "senior population":-1126.156661
+  },
+  {
+    "GEOID":12011020325,
+    "DESERT":0,
+    "senior population":-1133.222565
+  },
+  {
+    "GEOID":12011020412,
+    "DESERT":1,
+    "senior population":-1140.28847
+  },
+  {
+    "GEOID":12011020502,
+    "DESERT":1,
+    "senior population":-1147.354374
+  },
+  {
+    "GEOID":12011030202,
+    "DESERT":1,
+    "senior population":-1154.420278
+  },
+  {
+    "GEOID":12011030203,
+    "DESERT":0,
+    "senior population":-1161.486183
+  },
+  {
+    "GEOID":12011030402,
+    "DESERT":1,
+    "senior population":-1168.552087
+  },
+  {
+    "GEOID":12011030600,
+    "DESERT":2,
+    "senior population":-1175.617991
+  },
+  {
+    "GEOID":12011030702,
+    "DESERT":0,
+    "senior population":-1182.683896
+  },
+  {
+    "GEOID":12011030704,
+    "DESERT":0,
+    "senior population":-1189.7498
+  },
+  {
+    "GEOID":12011030902,
+    "DESERT":0,
+    "senior population":-1196.815704
+  },
+  {
+    "GEOID":12011031001,
+    "DESERT":0,
+    "senior population":-1203.881609
+  },
+  {
+    "GEOID":12011031002,
+    "DESERT":0,
+    "senior population":-1210.947513
+  },
+  {
+    "GEOID":12011040203,
+    "DESERT":0,
+    "senior population":-1218.013417
+  },
+  {
+    "GEOID":12011040402,
+    "DESERT":0,
+    "senior population":-1225.079322
+  },
+  {
+    "GEOID":12011040702,
+    "DESERT":0,
+    "senior population":-1232.145226
+  },
+  {
+    "GEOID":12011041000,
+    "DESERT":2,
+    "senior population":-1239.21113
+  },
+  {
+    "GEOID":12011041801,
+    "DESERT":0,
+    "senior population":-1246.277034
+  },
+  {
+    "GEOID":12011042200,
+    "DESERT":0,
+    "senior population":-1253.342939
+  },
+  {
+    "GEOID":12011043100,
+    "DESERT":0,
+    "senior population":-1260.408843
+  },
+  {
+    "GEOID":12011043302,
+    "DESERT":1,
+    "senior population":-1267.474747
+  },
+  {
+    "GEOID":12011050306,
+    "DESERT":1,
+    "senior population":-1274.540652
+  },
+  {
+    "GEOID":12011050308,
+    "DESERT":1,
+    "senior population":-1281.606556
+  },
+  {
+    "GEOID":12011050502,
+    "DESERT":0,
+    "senior population":-1288.67246
+  },
+  {
+    "GEOID":12011051002,
+    "DESERT":0,
+    "senior population":-1295.738365
+  },
+  {
+    "GEOID":12011060114,
+    "DESERT":0,
+    "senior population":-1302.804269
+  },
+  {
+    "GEOID":12011060120,
+    "DESERT":0,
+    "senior population":-1309.870173
+  },
+  {
+    "GEOID":12011060127,
+    "DESERT":0,
+    "senior population":-1316.936078
+  },
+  {
+    "GEOID":12011060208,
+    "DESERT":0,
+    "senior population":-1324.001982
+  },
+  {
+    "GEOID":12011060401,
+    "DESERT":1,
+    "senior population":-1331.067886
+  },
+  {
+    "GEOID":12011060403,
+    "DESERT":1,
+    "senior population":-1338.133791
+  },
+  {
+    "GEOID":12011060607,
+    "DESERT":0,
+    "senior population":-1345.199695
+  },
+  {
+    "GEOID":12011060609,
+    "DESERT":0,
+    "senior population":-1352.265599
+  },
+  {
+    "GEOID":12011070101,
+    "DESERT":2,
+    "senior population":-1359.331504
+  },
+  {
+    "GEOID":12011070211,
+    "DESERT":0,
+    "senior population":-1366.397408
+  },
+  {
+    "GEOID":12011070311,
+    "DESERT":0,
+    "senior population":-1373.463312
+  },
+  {
+    "GEOID":12011070314,
+    "DESERT":0,
+    "senior population":-1380.529217
+  },
+  {
+    "GEOID":12011070402,
+    "DESERT":0,
+    "senior population":-1387.595121
+  },
+  {
+    "GEOID":12011070502,
+    "DESERT":1,
+    "senior population":-1394.661025
+  },
+  {
+    "GEOID":12011080101,
+    "DESERT":0,
+    "senior population":-1401.72693
+  },
+  {
+    "GEOID":12011080102,
+    "DESERT":0,
+    "senior population":-1408.792834
+  },
+  {
+    "GEOID":12011080403,
+    "DESERT":1,
+    "senior population":-1415.858738
+  },
+  {
+    "GEOID":12011080406,
+    "DESERT":0,
+    "senior population":-1422.924643
+  },
+  {
+    "GEOID":12011080500,
+    "DESERT":1,
+    "senior population":-1429.990547
+  },
+  {
+    "GEOID":12011090102,
+    "DESERT":0,
+    "senior population":-1437.056451
+  },
+  {
+    "GEOID":12011090401,
+    "DESERT":0,
+    "senior population":-1444.122356
+  },
+  {
+    "GEOID":12011090502,
+    "DESERT":0,
+    "senior population":-1451.18826
+  },
+  {
+    "GEOID":12011090900,
+    "DESERT":0,
+    "senior population":-1458.254164
+  },
+  {
+    "GEOID":12011091201,
+    "DESERT":0,
+    "senior population":-1465.320069
+  },
+  {
+    "GEOID":12011091600,
+    "DESERT":2,
+    "senior population":-1472.385973
+  },
+  {
+    "GEOID":12011091702,
+    "DESERT":0,
+    "senior population":-1479.451877
+  },
+  {
+    "GEOID":12011100600,
+    "DESERT":0,
+    "senior population":-1486.517782
+  },
+  {
+    "GEOID":12011100801,
+    "DESERT":1,
+    "senior population":-1493.583686
+  },
+  {
+    "GEOID":12011110307,
+    "DESERT":0,
+    "senior population":-1500.64959
+  },
+  {
+    "GEOID":12011110323,
+    "DESERT":0,
+    "senior population":-1507.715495
+  },
+  {
+    "GEOID":12011110325,
+    "DESERT":0,
+    "senior population":-1514.781399
+  },
+  {
+    "GEOID":12011110334,
+    "DESERT":2,
+    "senior population":-1521.847303
+  },
+  {
+    "GEOID":12011110339,
+    "DESERT":0,
+    "senior population":-1528.913208
+  },
+  {
+    "GEOID":12011110600,
+    "DESERT":2,
+    "senior population":-1535.979112
+  },
+  {
+    "GEOID":12086010009,
+    "DESERT":0,
+    "senior population":-1543.045016
+  },
+  {
+    "GEOID":12086010198,
+    "DESERT":0,
+    "senior population":-1550.110921
+  },
+  {
+    "GEOID":12086010208,
+    "DESERT":0,
+    "senior population":-1557.176825
+  },
+  {
+    "GEOID":12086010500,
+    "DESERT":0,
+    "senior population":-1564.242729
+  },
+  {
+    "GEOID":12086010610,
+    "DESERT":0,
+    "senior population":-1571.308634
+  },
+  {
+    "GEOID":12086011001,
+    "DESERT":1,
+    "senior population":-1578.374538
+  },
+  {
+    "GEOID":12086011009,
+    "DESERT":0,
+    "senior population":-1585.440442
+  },
+  {
+    "GEOID":12086011201,
+    "DESERT":2,
+    "senior population":-1592.506346
+  },
+  {
+    "GEOID":12086011700,
+    "DESERT":1,
+    "senior population":-1599.572251
+  },
+  {
+    "GEOID":12086012400,
+    "DESERT":0,
+    "senior population":-1606.638155
+  },
+  {
+    "GEOID":12086012700,
+    "DESERT":0,
+    "senior population":-1613.704059
+  },
+  {
+    "GEOID":12086013400,
+    "DESERT":0,
+    "senior population":-1620.769964
+  },
+  {
+    "GEOID":12086014500,
+    "DESERT":0,
+    "senior population":-1627.835868
+  },
+  {
+    "GEOID":12099980100,
+    "DESERT":0,
+    "senior population":-1634.901772
+  },
+  {
+    "GEOID":12086014700,
+    "DESERT":0,
+    "senior population":-1641.967677
+  },
+  {
+    "GEOID":12086015500,
+    "DESERT":0,
+    "senior population":-1649.033581
+  },
+  {
+    "GEOID":12086016000,
+    "DESERT":0,
+    "senior population":-1656.099485
+  },
+  {
+    "GEOID":12086017000,
+    "DESERT":0,
+    "senior population":-1663.16539
+  },
+  {
+    "GEOID":12086017300,
+    "DESERT":0,
+    "senior population":-1670.231294
+  },
+  {
+    "GEOID":12086018000,
+    "DESERT":0,
+    "senior population":-1677.297198
+  },
+  {
+    "GEOID":12086018800,
+    "DESERT":0,
+    "senior population":-1684.363103
+  },
+  {
+    "GEOID":12086019600,
+    "DESERT":0,
+    "senior population":-1691.429007
+  },
+  {
+    "GEOID":12086019800,
+    "DESERT":0,
+    "senior population":-1698.494911
+  },
+  {
+    "GEOID":12086980400,
+    "DESERT":0,
+    "senior population":-1705.560816
+  },
+  {
+    "GEOID":12086980900,
+    "DESERT":0,
+    "senior population":-1712.62672
+  },
+  {
+    "GEOID":12086000120,
+    "DESERT":0,
+    "senior population":-1719.692624
+  },
+  {
+    "GEOID":12086000125,
+    "DESERT":0,
+    "senior population":-1726.758529
+  },
+  {
+    "GEOID":12086000128,
+    "DESERT":0,
+    "senior population":-1733.824433
+  },
+  {
+    "GEOID":12086000214,
+    "DESERT":1,
+    "senior population":-1740.890337
+  },
+  {
+    "GEOID":12086000216,
+    "DESERT":0,
+    "senior population":-1747.956242
+  },
+  {
+    "GEOID":12086000402,
+    "DESERT":1,
+    "senior population":-1755.022146
+  },
+  {
+    "GEOID":12086000409,
+    "DESERT":0,
+    "senior population":-1762.08805
+  },
+  {
+    "GEOID":12086000414,
+    "DESERT":1,
+    "senior population":-1769.153955
+  },
+  {
+    "GEOID":12086000601,
+    "DESERT":0,
+    "senior population":-1776.219859
+  },
+  {
+    "GEOID":12099000208,
+    "DESERT":0,
+    "senior population":-1783.285763
+  },
+  {
+    "GEOID":12099000210,
+    "DESERT":0,
+    "senior population":-1790.351668
+  },
+  {
+    "GEOID":12099000407,
+    "DESERT":0,
+    "senior population":-1797.417572
+  },
+  {
+    "GEOID":12099000509,
+    "DESERT":0,
+    "senior population":-1804.483476
+  },
+  {
+    "GEOID":12099000803,
+    "DESERT":0,
+    "senior population":-1811.549381
+  },
+  {
+    "GEOID":12099001301,
+    "DESERT":2,
+    "senior population":-1818.615285
+  },
+  {
+    "GEOID":12099001500,
+    "DESERT":1,
+    "senior population":-1825.681189
+  },
+  {
+    "GEOID":12099001600,
+    "DESERT":0,
+    "senior population":-1832.747094
+  },
+  {
+    "GEOID":12086000708,
+    "DESERT":0,
+    "senior population":-1839.812998
+  },
+  {
+    "GEOID":12086000711,
+    "DESERT":1,
+    "senior population":-1846.878902
+  },
+  {
+    "GEOID":12086000901,
+    "DESERT":1,
+    "senior population":-1853.944807
+  },
+  {
+    "GEOID":12086001101,
+    "DESERT":1,
+    "senior population":-1861.010711
+  },
+  {
+    "GEOID":12086001104,
+    "DESERT":0,
+    "senior population":-1868.076615
+  },
+  {
+    "GEOID":12086001402,
+    "DESERT":0,
+    "senior population":-1875.14252
+  },
+  {
+    "GEOID":12086001801,
+    "DESERT":0,
+    "senior population":-1882.208424
+  },
+  {
+    "GEOID":12086001904,
+    "DESERT":0,
+    "senior population":-1889.274328
+  },
+  {
+    "GEOID":12086002402,
+    "DESERT":0,
+    "senior population":-1896.340233
+  },
+  {
+    "GEOID":12086002404,
+    "DESERT":0,
+    "senior population":-1903.406137
+  },
+  {
+    "GEOID":12086003003,
+    "DESERT":1,
+    "senior population":-1910.472041
+  },
+  {
+    "GEOID":12086003100,
+    "DESERT":1,
+    "senior population":-1917.537945
+  },
+  {
+    "GEOID":12086003906,
+    "DESERT":0,
+    "senior population":-1924.60385
+  },
+  {
+    "GEOID":12086003912,
+    "DESERT":1,
+    "senior population":-1931.669754
+  },
+  {
+    "GEOID":12086003919,
+    "DESERT":0,
+    "senior population":-1938.735658
+  },
+  {
+    "GEOID":12099001802,
+    "DESERT":0,
+    "senior population":-1945.801563
+  },
+  {
+    "GEOID":12099001904,
+    "DESERT":0,
+    "senior population":-1952.867467
+  },
+  {
+    "GEOID":12099001910,
+    "DESERT":1,
+    "senior population":-1959.933371
+  },
+  {
+    "GEOID":12099001912,
+    "DESERT":2,
+    "senior population":-1966.999276
+  },
+  {
+    "GEOID":12099001913,
+    "DESERT":1,
+    "senior population":-1974.06518
+  },
+  {
+    "GEOID":12099001917,
+    "DESERT":0,
+    "senior population":-1981.131084
+  },
+  {
+    "GEOID":12099002005,
+    "DESERT":1,
+    "senior population":-1988.196989
+  },
+  {
+    "GEOID":12099002800,
+    "DESERT":0,
+    "senior population":-1995.262893
+  },
+  {
+    "GEOID":12099003201,
+    "DESERT":0,
+    "senior population":-2002.328797
+  },
+  {
+    "GEOID":12099003507,
+    "DESERT":0,
+    "senior population":-2009.394702
+  },
+  {
+    "GEOID":12099004005,
+    "DESERT":0,
+    "senior population":-2016.460606
+  },
+  {
+    "GEOID":12099004011,
+    "DESERT":1,
+    "senior population":-2023.52651
+  },
+  {
+    "GEOID":12099004013,
+    "DESERT":1,
+    "senior population":-2030.592415
+  },
+  {
+    "GEOID":12099004601,
+    "DESERT":0,
+    "senior population":-2037.658319
+  },
+  {
+    "GEOID":12086004000,
+    "DESERT":0,
+    "senior population":-2044.724223
+  },
+  {
+    "GEOID":12086004102,
+    "DESERT":0,
+    "senior population":-2051.790128
+  },
+  {
+    "GEOID":12086004105,
+    "DESERT":0,
+    "senior population":-2058.856032
+  },
+  {
+    "GEOID":12086004205,
+    "DESERT":0,
+    "senior population":-2065.921936
+  },
+  {
+    "GEOID":12086004303,
+    "DESERT":0,
+    "senior population":-2072.987841
+  },
+  {
+    "GEOID":12086004304,
+    "DESERT":0,
+    "senior population":-2080.053745
+  },
+  {
+    "GEOID":12086004406,
+    "DESERT":0,
+    "senior population":-2087.119649
+  },
+  {
+    "GEOID":12086004602,
+    "DESERT":0,
+    "senior population":-2094.185554
+  },
+  {
+    "GEOID":12086004702,
+    "DESERT":0,
+    "senior population":-2101.251458
+  },
+  {
+    "GEOID":12086005002,
+    "DESERT":1,
+    "senior population":-2108.317362
+  },
+  {
+    "GEOID":12086005304,
+    "DESERT":0,
+    "senior population":-2115.383267
+  },
+  {
+    "GEOID":12086005409,
+    "DESERT":0,
+    "senior population":-2122.449171
+  },
+  {
+    "GEOID":12086005901,
+    "DESERT":0,
+    "senior population":-2129.515075
+  },
+  {
+    "GEOID":12086005904,
+    "DESERT":1,
+    "senior population":-2136.58098
+  },
+  {
+    "GEOID":12086006201,
+    "DESERT":1,
+    "senior population":-2143.646884
+  },
+  {
+    "GEOID":12099004704,
+    "DESERT":1,
+    "senior population":-2150.712788
+  },
+  {
+    "GEOID":12099004815,
+    "DESERT":0,
+    "senior population":-2157.778693
+  },
+  {
+    "GEOID":12099004904,
+    "DESERT":2,
+    "senior population":-2164.844597
+  },
+  {
+    "GEOID":12099005405,
+    "DESERT":0,
+    "senior population":-2171.910501
+  },
+  {
+    "GEOID":12099005409,
+    "DESERT":0,
+    "senior population":-2178.976406
+  },
+  {
+    "GEOID":12099005813,
+    "DESERT":0,
+    "senior population":-2186.04231
+  },
+  {
+    "GEOID":12099005816,
+    "DESERT":0,
+    "senior population":-2193.108214
+  },
+  {
+    "GEOID":12099005921,
+    "DESERT":0,
+    "senior population":-2200.174119
+  },
+  {
+    "GEOID":12099005926,
+    "DESERT":0,
+    "senior population":-2207.240023
+  },
+  {
+    "GEOID":12099005940,
+    "DESERT":0,
+    "senior population":-2214.305927
+  },
+  {
+    "GEOID":12099005946,
+    "DESERT":0,
+    "senior population":-2221.371832
+  },
+  {
+    "GEOID":12099005952,
+    "DESERT":0,
+    "senior population":-2228.437736
+  },
+  {
+    "GEOID":12099006008,
+    "DESERT":0,
+    "senior population":-2235.50364
+  },
+  {
+    "GEOID":12099006202,
+    "DESERT":0,
+    "senior population":-2242.569545
+  },
+  {
+    "GEOID":12099006401,
+    "DESERT":0,
+    "senior population":-2249.635449
+  },
+  {
+    "GEOID":12086006302,
+    "DESERT":0,
+    "senior population":-2256.701353
+  },
+  {
+    "GEOID":12086006602,
+    "DESERT":0,
+    "senior population":-2263.767257
+  },
+  {
+    "GEOID":12086006713,
+    "DESERT":0,
+    "senior population":-2270.833162
+  },
+  {
+    "GEOID":12086006802,
+    "DESERT":0,
+    "senior population":-2277.899066
+  },
+  {
+    "GEOID":12086007200,
+    "DESERT":1,
+    "senior population":-2284.96497
+  },
+  {
+    "GEOID":12086007605,
+    "DESERT":0,
+    "senior population":-2292.030875
+  },
+  {
+    "GEOID":12086007702,
+    "DESERT":0,
+    "senior population":-2299.096779
+  },
+  {
+    "GEOID":12086008000,
+    "DESERT":0,
+    "senior population":-2306.162683
+  },
+  {
+    "GEOID":12086008206,
+    "DESERT":0,
+    "senior population":-2313.228588
+  },
+  {
+    "GEOID":12086008208,
+    "DESERT":0,
+    "senior population":-2320.294492
+  },
+  {
+    "GEOID":12086008405,
+    "DESERT":0,
+    "senior population":-2327.360396
+  },
+  {
+    "GEOID":12086008417,
+    "DESERT":2,
+    "senior population":-2334.426301
+  },
+  {
+    "GEOID":12099006603,
+    "DESERT":0,
+    "senior population":-2341.492205
+  },
+  {
+    "GEOID":12099006910,
+    "DESERT":0,
+    "senior population":-2348.558109
+  },
+  {
+    "GEOID":12099007009,
+    "DESERT":0,
+    "senior population":-2355.624014
+  },
+  {
+    "GEOID":12099007011,
+    "DESERT":0,
+    "senior population":-2362.689918
+  },
+  {
+    "GEOID":12099007407,
+    "DESERT":0,
+    "senior population":-2369.755822
+  },
+  {
+    "GEOID":12099007410,
+    "DESERT":0,
+    "senior population":-2376.821727
+  },
+  {
+    "GEOID":12099007412,
+    "DESERT":0,
+    "senior population":-2383.887631
+  },
+  {
+    "GEOID":12099007418,
+    "DESERT":0,
+    "senior population":-2390.953535
+  },
+  {
+    "GEOID":12099007504,
+    "DESERT":0,
+    "senior population":-2398.01944
+  },
+  {
+    "GEOID":12099007603,
+    "DESERT":0,
+    "senior population":-2405.085344
+  },
+  {
+    "GEOID":12099007604,
+    "DESERT":0,
+    "senior population":-2412.151248
+  },
+  {
+    "GEOID":12099007607,
+    "DESERT":0,
+    "senior population":-2419.217153
+  },
+  {
+    "GEOID":12099007617,
+    "DESERT":0,
+    "senior population":-2426.283057
+  },
+  {
+    "GEOID":12099007705,
+    "DESERT":0,
+    "senior population":-2433.348961
+  },
+  {
+    "GEOID":12086008702,
+    "DESERT":0,
+    "senior population":-2440.414866
+  },
+  {
+    "GEOID":12086008904,
+    "DESERT":0,
+    "senior population":-2447.48077
+  },
+  {
+    "GEOID":12086009014,
+    "DESERT":0,
+    "senior population":-2454.546674
+  },
+  {
+    "GEOID":12086009024,
+    "DESERT":0,
+    "senior population":-2461.612579
+  },
+  {
+    "GEOID":12086009030,
+    "DESERT":1,
+    "senior population":-2468.678483
+  },
+  {
+    "GEOID":12086009035,
+    "DESERT":0,
+    "senior population":-2475.744387
+  },
+  {
+    "GEOID":12086009309,
+    "DESERT":0,
+    "senior population":-2482.810292
+  },
+  {
+    "GEOID":12086009313,
+    "DESERT":0,
+    "senior population":-2489.876196
+  },
+  {
+    "GEOID":12086009314,
+    "DESERT":0,
+    "senior population":-2496.9421
+  },
+  {
+    "GEOID":12086009501,
+    "DESERT":1,
+    "senior population":-2504.008005
+  },
+  {
+    "GEOID":12086009600,
+    "DESERT":0,
+    "senior population":-2511.073909
+  },
+  {
+    "GEOID":12086009703,
+    "DESERT":0,
+    "senior population":-2518.139813
+  },
+  {
+    "GEOID":12086009706,
+    "DESERT":1,
+    "senior population":-2525.205718
+  },
+  {
+    "GEOID":12086009804,
+    "DESERT":0,
+    "senior population":-2532.271622
+  },
+  {
+    "GEOID":12086009807,
+    "DESERT":0,
+    "senior population":-2539.337526
+  },
+  {
+    "GEOID":12086009903,
+    "DESERT":0,
+    "senior population":-2546.403431
+  },
+  {
+    "GEOID":12099007723,
+    "DESERT":0,
+    "senior population":-2553.469335
+  },
+  {
+    "GEOID":12099007730,
+    "DESERT":0,
+    "senior population":-2560.535239
+  },
+  {
+    "GEOID":12099007747,
+    "DESERT":1,
+    "senior population":-2567.601144
+  },
+  {
+    "GEOID":12099007749,
+    "DESERT":0,
+    "senior population":-2574.667048
+  },
+  {
+    "GEOID":12099007752,
+    "DESERT":0,
+    "senior population":-2581.732952
+  },
+  {
+    "GEOID":12099007767,
+    "DESERT":0,
+    "senior population":-2588.798856
+  },
+  {
+    "GEOID":12099007808,
+    "DESERT":0,
+    "senior population":-2595.864761
+  },
+  {
+    "GEOID":12099007821,
+    "DESERT":0,
+    "senior population":-2602.930665
+  },
+  {
+    "GEOID":12099007833,
+    "DESERT":2,
+    "senior population":-2609.996569
+  },
+  {
+    "GEOID":12099007836,
+    "DESERT":0,
+    "senior population":-2617.062474
+  },
+  {
+    "GEOID":12099008001,
+    "DESERT":2,
+    "senior population":-2624.128378
+  },
+  {
+    "GEOID":12099008101,
+    "DESERT":0,
+    "senior population":-2631.194282
+  },
+  {
+    "GEOID":12086000107,
+    "DESERT":0,
+    "senior population":-2638.260187
+  },
+  {
+    "GEOID":12086000113,
+    "DESERT":0,
+    "senior population":-2645.326091
+  },
+  {
+    "GEOID":12086000122,
+    "DESERT":0,
+    "senior population":-2652.391995
+  },
+  {
+    "GEOID":12086000124,
+    "DESERT":0,
+    "senior population":-2659.4579
+  },
+  {
+    "GEOID":12086000127,
+    "DESERT":0,
+    "senior population":-2666.523804
+  },
+  {
+    "GEOID":12086000131,
+    "DESERT":0,
+    "senior population":-2673.589708
+  },
+  {
+    "GEOID":12086000132,
+    "DESERT":0,
+    "senior population":-2680.655613
+  },
+  {
+    "GEOID":12086000204,
+    "DESERT":0,
+    "senior population":-2687.721517
+  },
+  {
+    "GEOID":12086000209,
+    "DESERT":1,
+    "senior population":-2694.787421
+  },
+  {
+    "GEOID":12086000213,
+    "DESERT":0,
+    "senior population":-2701.853326
+  },
+  {
+    "GEOID":12086000220,
+    "DESERT":0,
+    "senior population":-2708.91923
+  },
+  {
+    "GEOID":12086000301,
+    "DESERT":0,
+    "senior population":-2715.985134
+  },
+  {
+    "GEOID":12086000308,
+    "DESERT":0,
+    "senior population":-2723.051039
+  },
+  {
+    "GEOID":12086000403,
+    "DESERT":2,
+    "senior population":-2730.116943
+  },
+  {
+    "GEOID":12086000412,
+    "DESERT":1,
+    "senior population":-2737.182847
+  },
+  {
+    "GEOID":12086000413,
+    "DESERT":1,
+    "senior population":-2744.248752
+  },
+  {
+    "GEOID":12086000505,
+    "DESERT":1,
+    "senior population":-2751.314656
+  },
+  {
+    "GEOID":12086000605,
+    "DESERT":0,
+    "senior population":-2758.38056
+  },
+  {
+    "GEOID":12086000705,
+    "DESERT":0,
+    "senior population":-2765.446465
+  },
+  {
+    "GEOID":12086000709,
+    "DESERT":1,
+    "senior population":-2772.512369
+  },
+  {
+    "GEOID":12086000712,
+    "DESERT":1,
+    "senior population":-2779.578273
+  },
+  {
+    "GEOID":12086000808,
+    "DESERT":0,
+    "senior population":-2786.644178
+  },
+  {
+    "GEOID":12086000902,
+    "DESERT":0,
+    "senior population":-2793.710082
+  },
+  {
+    "GEOID":12086001004,
+    "DESERT":1,
+    "senior population":-2800.775986
+  },
+  {
+    "GEOID":12086001006,
+    "DESERT":0,
+    "senior population":-2807.841891
+  },
+  {
+    "GEOID":12086001203,
+    "DESERT":1,
+    "senior population":-2814.907795
+  },
+  {
+    "GEOID":12086001205,
+    "DESERT":0,
+    "senior population":-2821.973699
+  },
+  {
+    "GEOID":12086001206,
+    "DESERT":0,
+    "senior population":-2829.039604
+  },
+  {
+    "GEOID":12086001401,
+    "DESERT":1,
+    "senior population":-2836.105508
+  },
+  {
+    "GEOID":12086001602,
+    "DESERT":1,
+    "senior population":-2843.171412
+  },
+  {
+    "GEOID":12086001702,
+    "DESERT":0,
+    "senior population":-2850.237317
+  },
+  {
+    "GEOID":12086001703,
+    "DESERT":1,
+    "senior population":-2857.303221
+  },
+  {
+    "GEOID":12086001903,
+    "DESERT":1,
+    "senior population":-2864.369125
+  },
+  {
+    "GEOID":12086002001,
+    "DESERT":1,
+    "senior population":-2871.43503
+  },
+  {
+    "GEOID":12086002100,
+    "DESERT":0,
+    "senior population":-2878.500934
+  },
+  {
+    "GEOID":12086002202,
+    "DESERT":0,
+    "senior population":-2885.566838
+  },
+  {
+    "GEOID":12086002501,
+    "DESERT":1,
+    "senior population":-2892.632743
+  },
+  {
+    "GEOID":12086002502,
+    "DESERT":1,
+    "senior population":-2899.698647
+  },
+  {
+    "GEOID":12086002702,
+    "DESERT":0,
+    "senior population":-2906.764551
+  },
+  {
+    "GEOID":12086002900,
+    "DESERT":0,
+    "senior population":-2913.830455
+  },
+  {
+    "GEOID":12086003004,
+    "DESERT":0,
+    "senior population":-2920.89636
+  },
+  {
+    "GEOID":12086003601,
+    "DESERT":0,
+    "senior population":-2927.962264
+  },
+  {
+    "GEOID":12086003705,
+    "DESERT":0,
+    "senior population":-2935.028168
+  },
+  {
+    "GEOID":12086003804,
+    "DESERT":0,
+    "senior population":-2942.094073
+  },
+  {
+    "GEOID":12086003911,
+    "DESERT":0,
+    "senior population":-2949.159977
+  },
+  {
+    "GEOID":12086003915,
+    "DESERT":1,
+    "senior population":-2956.225881
+  },
+  {
+    "GEOID":12086003916,
+    "DESERT":1,
+    "senior population":-2963.291786
+  },
+  {
+    "GEOID":12086004608,
+    "DESERT":0,
+    "senior population":-2970.35769
+  },
+  {
+    "GEOID":12086004703,
+    "DESERT":0,
+    "senior population":-2977.423594
+  },
+  {
+    "GEOID":12086005001,
+    "DESERT":1,
+    "senior population":-2984.489499
+  },
+  {
+    "GEOID":12086005104,
+    "DESERT":1,
+    "senior population":-2991.555403
+  },
+  {
+    "GEOID":12086005303,
+    "DESERT":0,
+    "senior population":-2998.621307
+  },
+  {
+    "GEOID":12086005407,
+    "DESERT":0,
+    "senior population":-3005.687212
+  },
+  {
+    "GEOID":12086005410,
+    "DESERT":0,
+    "senior population":-3012.753116
+  },
+  {
+    "GEOID":12086005801,
+    "DESERT":0,
+    "senior population":-3019.81902
+  },
+  {
+    "GEOID":12086005902,
+    "DESERT":0,
+    "senior population":-3026.884925
+  },
+  {
+    "GEOID":12086006001,
+    "DESERT":0,
+    "senior population":-3033.950829
+  },
+  {
+    "GEOID":12086006101,
+    "DESERT":0,
+    "senior population":-3041.016733
+  },
+  {
+    "GEOID":12086006203,
+    "DESERT":0,
+    "senior population":-3048.082638
+  },
+  {
+    "GEOID":12086006301,
+    "DESERT":1,
+    "senior population":-3055.148542
+  },
+  {
+    "GEOID":12086006403,
+    "DESERT":0,
+    "senior population":-3062.214446
+  },
+  {
+    "GEOID":12086006501,
+    "DESERT":1,
+    "senior population":-3069.280351
+  },
+  {
+    "GEOID":12086006702,
+    "DESERT":0,
+    "senior population":-3076.346255
+  },
+  {
+    "GEOID":12086006706,
+    "DESERT":0,
+    "senior population":-3083.412159
+  },
+  {
+    "GEOID":12086006711,
+    "DESERT":0,
+    "senior population":-3090.478064
+  },
+  {
+    "GEOID":12086006900,
+    "DESERT":0,
+    "senior population":-3097.543968
+  },
+  {
+    "GEOID":12086007002,
+    "DESERT":1,
+    "senior population":-3104.609872
+  },
+  {
+    "GEOID":12086007104,
+    "DESERT":0,
+    "senior population":-3111.675777
+  },
+  {
+    "GEOID":12086007300,
+    "DESERT":0,
+    "senior population":-3118.741681
+  },
+  {
+    "GEOID":12086007400,
+    "DESERT":0,
+    "senior population":-3125.807585
+  },
+  {
+    "GEOID":12086007604,
+    "DESERT":0,
+    "senior population":-3132.87349
+  },
+  {
+    "GEOID":12086007701,
+    "DESERT":0,
+    "senior population":-3139.939394
+  },
+  {
+    "GEOID":12086007801,
+    "DESERT":0,
+    "senior population":-3147.005298
+  },
+  {
+    "GEOID":12086007901,
+    "DESERT":0,
+    "senior population":-3154.071203
+  },
+  {
+    "GEOID":12086008202,
+    "DESERT":0,
+    "senior population":-3161.137107
+  },
+  {
+    "GEOID":12086008205,
+    "DESERT":0,
+    "senior population":-3168.203011
+  },
+  {
+    "GEOID":12086008207,
+    "DESERT":0,
+    "senior population":-3175.268916
+  },
+  {
+    "GEOID":12086008307,
+    "DESERT":0,
+    "senior population":-3182.33482
+  },
+  {
+    "GEOID":12086008407,
+    "DESERT":0,
+    "senior population":-3189.400724
+  },
+  {
+    "GEOID":12086008409,
+    "DESERT":0,
+    "senior population":-3196.466629
+  },
+  {
+    "GEOID":12086008416,
+    "DESERT":0,
+    "senior population":-3203.532533
+  },
+  {
+    "GEOID":12086008602,
+    "DESERT":0,
+    "senior population":-3210.598437
+  },
+  {
+    "GEOID":12086008701,
+    "DESERT":0,
+    "senior population":-3217.664342
+  },
+  {
+    "GEOID":12086008806,
+    "DESERT":0,
+    "senior population":-3224.730246
+  },
+  {
+    "GEOID":12086008902,
+    "DESERT":1,
+    "senior population":-3231.79615
+  },
+  {
+    "GEOID":12086009010,
+    "DESERT":0,
+    "senior population":-3238.862055
+  },
+  {
+    "GEOID":12086009017,
+    "DESERT":1,
+    "senior population":-3245.927959
+  },
+  {
+    "GEOID":12086009023,
+    "DESERT":1,
+    "senior population":-3252.993863
+  },
+  {
+    "GEOID":12086009026,
+    "DESERT":1,
+    "senior population":-3260.059767
+  },
+  {
+    "GEOID":12086013600,
+    "DESERT":0,
+    "senior population":-3267.125672
+  },
+  {
+    "GEOID":12086013800,
+    "DESERT":0,
+    "senior population":-3274.191576
+  },
+  {
+    "GEOID":12086014100,
+    "DESERT":0,
+    "senior population":-3281.25748
+  },
+  {
+    "GEOID":12086014400,
+    "DESERT":0,
+    "senior population":-3288.323385
+  },
+  {
+    "GEOID":12086014800,
+    "DESERT":1,
+    "senior population":-3295.389289
+  },
+  {
+    "GEOID":12086014900,
+    "DESERT":0,
+    "senior population":-3302.455193
+  },
+  {
+    "GEOID":12086015400,
+    "DESERT":0,
+    "senior population":-3309.521098
+  },
+  {
+    "GEOID":12086015600,
+    "DESERT":0,
+    "senior population":-3316.587002
+  },
+  {
+    "GEOID":12086016100,
+    "DESERT":0,
+    "senior population":-3323.652906
+  },
+  {
+    "GEOID":12086016400,
+    "DESERT":0,
+    "senior population":-3330.718811
+  },
+  {
+    "GEOID":12086016700,
+    "DESERT":0,
+    "senior population":-3337.784715
+  },
+  {
+    "GEOID":12086016900,
+    "DESERT":0,
+    "senior population":-3344.850619
+  },
+  {
+    "GEOID":12086009029,
+    "DESERT":0,
+    "senior population":-3351.916524
+  },
+  {
+    "GEOID":12086009034,
+    "DESERT":0,
+    "senior population":-3358.982428
+  },
+  {
+    "GEOID":12086009039,
+    "DESERT":0,
+    "senior population":-3366.048332
+  },
+  {
+    "GEOID":12086009040,
+    "DESERT":2,
+    "senior population":-3373.114237
+  },
+  {
+    "GEOID":12086009047,
+    "DESERT":0,
+    "senior population":-3380.180141
+  },
+  {
+    "GEOID":12086009305,
+    "DESERT":0,
+    "senior population":-3387.246045
+  },
+  {
+    "GEOID":12086009308,
+    "DESERT":0,
+    "senior population":-3394.31195
+  },
+  {
+    "GEOID":12086009311,
+    "DESERT":0,
+    "senior population":-3401.377854
+  },
+  {
+    "GEOID":12086010005,
+    "DESERT":1,
+    "senior population":-3408.443758
+  },
+  {
+    "GEOID":12086010011,
+    "DESERT":1,
+    "senior population":-3415.509663
+  },
+  {
+    "GEOID":12086010201,
+    "DESERT":0,
+    "senior population":-3422.575567
+  },
+  {
+    "GEOID":12086010207,
+    "DESERT":1,
+    "senior population":-3429.641471
+  },
+  {
+    "GEOID":12086010300,
+    "DESERT":0,
+    "senior population":-3436.707376
+  },
+  {
+    "GEOID":12086010604,
+    "DESERT":0,
+    "senior population":-3443.77328
+  },
+  {
+    "GEOID":12086017200,
+    "DESERT":0,
+    "senior population":-3450.839184
+  },
+  {
+    "GEOID":12086017600,
+    "DESERT":1,
+    "senior population":-3457.905089
+  },
+  {
+    "GEOID":12086017900,
+    "DESERT":0,
+    "senior population":-3464.970993
+  },
+  {
+    "GEOID":12086018100,
+    "DESERT":0,
+    "senior population":-3472.036897
+  },
+  {
+    "GEOID":12086018700,
+    "DESERT":0,
+    "senior population":-3479.102802
+  },
+  {
+    "GEOID":12086018900,
+    "DESERT":0,
+    "senior population":-3486.168706
+  },
+  {
+    "GEOID":12086019200,
+    "DESERT":0,
+    "senior population":-3493.23461
+  },
+  {
+    "GEOID":12086019500,
+    "DESERT":0,
+    "senior population":-3500.300515
+  },
+  {
+    "GEOID":12086019900,
+    "DESERT":0,
+    "senior population":-3507.366419
+  },
+  {
+    "GEOID":12086980100,
+    "DESERT":0,
+    "senior population":-3514.432323
+  },
+  {
+    "GEOID":12086980300,
+    "DESERT":0,
+    "senior population":-3521.498228
+  },
+  {
+    "GEOID":12086980800,
+    "DESERT":0,
+    "senior population":-3528.564132
+  },
+  {
+    "GEOID":12086010613,
+    "DESERT":0,
+    "senior population":-3535.630036
+  },
+  {
+    "GEOID":12086010617,
+    "DESERT":2,
+    "senior population":-3542.695941
+  },
+  {
+    "GEOID":12086010900,
+    "DESERT":1,
+    "senior population":-3549.761845
+  },
+  {
+    "GEOID":12086011003,
+    "DESERT":1,
+    "senior population":-3556.827749
+  },
+  {
+    "GEOID":12086011102,
+    "DESERT":0,
+    "senior population":-3563.893654
+  },
+  {
+    "GEOID":12086011401,
+    "DESERT":2,
+    "senior population":-3570.959558
+  },
+  {
+    "GEOID":12086011403,
+    "DESERT":2,
+    "senior population":-3578.025462
+  },
+  {
+    "GEOID":12086011800,
+    "DESERT":0,
+    "senior population":-3585.091366
+  },
+  {
+    "GEOID":12086012500,
+    "DESERT":1,
+    "senior population":-3592.157271
+  },
+  {
+    "GEOID":12086012600,
+    "DESERT":0,
+    "senior population":-3599.223175
+  },
+  {
+    "GEOID":12086013100,
+    "DESERT":0,
+    "senior population":-3606.289079
+  },
+  {
+    "GEOID":12086013300,
+    "DESERT":0,
+    "senior population":-3613.354984
+  },
+  {
+    "GEOID":12099001200,
+    "DESERT":1,
+    "senior population":-3620.420888
+  },
+  {
+    "GEOID":12099002006,
+    "DESERT":1,
+    "senior population":-3627.486792
+  },
+  {
+    "GEOID":12099002100,
+    "DESERT":1,
+    "senior population":-3634.552697
+  },
+  {
+    "GEOID":12099002300,
+    "DESERT":1,
+    "senior population":-3641.618601
+  },
+  {
+    "GEOID":12099002700,
+    "DESERT":0,
+    "senior population":-3648.684505
+  },
+  {
+    "GEOID":12099003102,
+    "DESERT":1,
+    "senior population":-3655.75041
+  },
+  {
+    "GEOID":12099003202,
+    "DESERT":0,
+    "senior population":-3662.816314
+  },
+  {
+    "GEOID":12099003300,
+    "DESERT":1,
+    "senior population":-3669.882218
+  },
+  {
+    "GEOID":12099003509,
+    "DESERT":0,
+    "senior population":-3676.948123
+  },
+  {
+    "GEOID":12099003700,
+    "DESERT":1,
+    "senior population":-3684.014027
+  },
+  {
+    "GEOID":12099003902,
+    "DESERT":2,
+    "senior population":-3691.079931
+  },
+  {
+    "GEOID":12099004007,
+    "DESERT":1,
+    "senior population":-3698.145836
+  },
+  {
+    "GEOID":12099004010,
+    "DESERT":1,
+    "senior population":-3705.21174
+  },
+  {
+    "GEOID":12099004101,
+    "DESERT":0,
+    "senior population":-3712.277644
+  },
+  {
+    "GEOID":12099004202,
+    "DESERT":0,
+    "senior population":-3719.343549
+  },
+  {
+    "GEOID":12099004300,
+    "DESERT":0,
+    "senior population":-3726.409453
+  },
+  {
+    "GEOID":12099004500,
+    "DESERT":0,
+    "senior population":-3733.475357
+  },
+  {
+    "GEOID":12099004702,
+    "DESERT":0,
+    "senior population":-3740.541262
+  },
+  {
+    "GEOID":12099004809,
+    "DESERT":1,
+    "senior population":-3747.607166
+  },
+  {
+    "GEOID":12099004812,
+    "DESERT":0,
+    "senior population":-3754.67307
+  },
+  {
+    "GEOID":12099004813,
+    "DESERT":0,
+    "senior population":-3761.738975
+  },
+  {
+    "GEOID":12099004903,
+    "DESERT":0,
+    "senior population":-3768.804879
+  },
+  {
+    "GEOID":12099005000,
+    "DESERT":1,
+    "senior population":-3775.870783
+  },
+  {
+    "GEOID":12099005204,
+    "DESERT":0,
+    "senior population":-3782.936688
+  },
+  {
+    "GEOID":12099005300,
+    "DESERT":0,
+    "senior population":-3790.002592
+  },
+  {
+    "GEOID":12099005501,
+    "DESERT":1,
+    "senior population":-3797.068496
+  },
+  {
+    "GEOID":12099000101,
+    "DESERT":0,
+    "senior population":-3804.134401
+  },
+  {
+    "GEOID":12099005702,
+    "DESERT":2,
+    "senior population":-3811.200305
+  },
+  {
+    "GEOID":12099005808,
+    "DESERT":0,
+    "senior population":-3818.266209
+  },
+  {
+    "GEOID":12099005814,
+    "DESERT":1,
+    "senior population":-3825.332114
+  },
+  {
+    "GEOID":12099005916,
+    "DESERT":0,
+    "senior population":-3832.398018
+  },
+  {
+    "GEOID":12099005918,
+    "DESERT":1,
+    "senior population":-3839.463922
+  },
+  {
+    "GEOID":12099005930,
+    "DESERT":2,
+    "senior population":-3846.529827
+  },
+  {
+    "GEOID":12099000206,
+    "DESERT":0,
+    "senior population":-3853.595731
+  },
+  {
+    "GEOID":12099000209,
+    "DESERT":0,
+    "senior population":-3860.661635
+  },
+  {
+    "GEOID":12099000303,
+    "DESERT":0,
+    "senior population":-3867.72754
+  },
+  {
+    "GEOID":12099000406,
+    "DESERT":1,
+    "senior population":-3874.793444
+  },
+  {
+    "GEOID":12099000507,
+    "DESERT":0,
+    "senior population":-3881.859348
+  },
+  {
+    "GEOID":12099000511,
+    "DESERT":0,
+    "senior population":-3888.925253
+  },
+  {
+    "GEOID":12099000802,
+    "DESERT":1,
+    "senior population":-3895.991157
+  },
+  {
+    "GEOID":12099000903,
+    "DESERT":0,
+    "senior population":-3903.057061
+  },
+  {
+    "GEOID":12099001004,
+    "DESERT":2,
+    "senior population":-3910.122966
+  },
+  {
+    "GEOID":12099001101,
+    "DESERT":0,
+    "senior population":-3917.18887
+  },
+  {
+    "GEOID":12011010305,
+    "DESERT":2,
+    "senior population":-3924.254774
+  },
+  {
+    "GEOID":12011010307,
+    "DESERT":1,
+    "senior population":-3931.320678
+  },
+  {
+    "GEOID":12011010402,
+    "DESERT":0,
+    "senior population":-3938.386583
+  },
+  {
+    "GEOID":12011010502,
+    "DESERT":0,
+    "senior population":-3945.452487
+  },
+  {
+    "GEOID":12011010504,
+    "DESERT":0,
+    "senior population":-3952.518391
+  },
+  {
+    "GEOID":12011010601,
+    "DESERT":0,
+    "senior population":-3959.584296
+  },
+  {
+    "GEOID":12011010606,
+    "DESERT":0,
+    "senior population":-3966.6502
+  },
+  {
+    "GEOID":12011010701,
+    "DESERT":0,
+    "senior population":-3973.716104
+  },
+  {
+    "GEOID":12011010901,
+    "DESERT":0,
+    "senior population":-3980.782009
+  },
+  {
+    "GEOID":12011020104,
+    "DESERT":0,
+    "senior population":-3987.847913
+  },
+  {
+    "GEOID":12011020205,
+    "DESERT":0,
+    "senior population":-3994.913817
+  },
+  {
+    "GEOID":12011020302,
+    "DESERT":1,
+    "senior population":-4001.979722
+  },
+  {
+    "GEOID":12011020312,
+    "DESERT":0,
+    "senior population":-4009.045626
+  },
+  {
+    "GEOID":12011020314,
+    "DESERT":0,
+    "senior population":-4016.11153
+  },
+  {
+    "GEOID":12011020321,
+    "DESERT":0,
+    "senior population":-4023.177435
+  },
+  {
+    "GEOID":12011020322,
+    "DESERT":0,
+    "senior population":-4030.243339
+  },
+  {
+    "GEOID":12011020404,
+    "DESERT":0,
+    "senior population":-4037.309243
+  },
+  {
+    "GEOID":12011020406,
+    "DESERT":0,
+    "senior population":-4044.375148
+  },
+  {
+    "GEOID":12011020411,
+    "DESERT":0,
+    "senior population":-4051.441052
+  },
+  {
+    "GEOID":12011030100,
+    "DESERT":0,
+    "senior population":-4058.506956
+  },
+  {
+    "GEOID":12011030201,
+    "DESERT":0,
+    "senior population":-4065.572861
+  },
+  {
+    "GEOID":12011031204,
+    "DESERT":0,
+    "senior population":-4072.638765
+  },
+  {
+    "GEOID":12099005934,
+    "DESERT":0,
+    "senior population":-4079.704669
+  },
+  {
+    "GEOID":12099005936,
+    "DESERT":1,
+    "senior population":-4086.770574
+  },
+  {
+    "GEOID":12099005938,
+    "DESERT":0,
+    "senior population":-4093.836478
+  },
+  {
+    "GEOID":12099005944,
+    "DESERT":0,
+    "senior population":-4100.902382
+  },
+  {
+    "GEOID":12099005947,
+    "DESERT":0,
+    "senior population":-4107.968287
+  },
+  {
+    "GEOID":12099005950,
+    "DESERT":0,
+    "senior population":-4115.034191
+  },
+  {
+    "GEOID":12099005955,
+    "DESERT":0,
+    "senior population":-4122.100095
+  },
+  {
+    "GEOID":12099006006,
+    "DESERT":0,
+    "senior population":-4129.166
+  },
+  {
+    "GEOID":12099006007,
+    "DESERT":0,
+    "senior population":-4136.231904
+  },
+  {
+    "GEOID":12099006012,
+    "DESERT":0,
+    "senior population":-4143.297808
+  },
+  {
+    "GEOID":12099006203,
+    "DESERT":0,
+    "senior population":-4150.363713
+  },
+  {
+    "GEOID":12099006300,
+    "DESERT":0,
+    "senior population":-4157.429617
+  },
+  {
+    "GEOID":12099006402,
+    "DESERT":0,
+    "senior population":-4164.495521
+  },
+  {
+    "GEOID":12099006604,
+    "DESERT":0,
+    "senior population":-4171.561426
+  },
+  {
+    "GEOID":12099006801,
+    "DESERT":1,
+    "senior population":-4178.62733
+  },
+  {
+    "GEOID":12099006906,
+    "DESERT":0,
+    "senior population":-4185.693234
+  },
+  {
+    "GEOID":12099006908,
+    "DESERT":0,
+    "senior population":-4192.759139
+  },
+  {
+    "GEOID":12099007002,
+    "DESERT":0,
+    "senior population":-4199.825043
+  },
+  {
+    "GEOID":12099007005,
+    "DESERT":0,
+    "senior population":-4206.890947
+  },
+  {
+    "GEOID":12099007010,
+    "DESERT":0,
+    "senior population":-4213.956852
+  },
+  {
+    "GEOID":12099007100,
+    "DESERT":0,
+    "senior population":-4221.022756
+  },
+  {
+    "GEOID":12099007615,
+    "DESERT":0,
+    "senior population":-4228.08866
+  },
+  {
+    "GEOID":12099007618,
+    "DESERT":0,
+    "senior population":-4235.154565
+  },
+  {
+    "GEOID":12099007713,
+    "DESERT":0,
+    "senior population":-4242.220469
+  },
+  {
+    "GEOID":12099007724,
+    "DESERT":0,
+    "senior population":-4249.286373
+  },
+  {
+    "GEOID":12099007734,
+    "DESERT":0,
+    "senior population":-4256.352277
+  },
+  {
+    "GEOID":12099007736,
+    "DESERT":0,
+    "senior population":-4263.418182
+  },
+  {
+    "GEOID":12099007744,
+    "DESERT":0,
+    "senior population":-4270.484086
+  },
+  {
+    "GEOID":12099007748,
+    "DESERT":0,
+    "senior population":-4277.54999
+  },
+  {
+    "GEOID":12099007753,
+    "DESERT":0,
+    "senior population":-4284.615895
+  },
+  {
+    "GEOID":12099007754,
+    "DESERT":0,
+    "senior population":-4291.681799
+  },
+  {
+    "GEOID":12099007759,
+    "DESERT":0,
+    "senior population":-4298.747703
+  },
+  {
+    "GEOID":12011040204,
+    "DESERT":0,
+    "senior population":-4305.813608
+  },
+  {
+    "GEOID":12011040205,
+    "DESERT":0,
+    "senior population":-4312.879512
+  },
+  {
+    "GEOID":12011040300,
+    "DESERT":0,
+    "senior population":-4319.945416
+  },
+  {
+    "GEOID":12011040504,
+    "DESERT":0,
+    "senior population":-4327.011321
+  },
+  {
+    "GEOID":12011040601,
+    "DESERT":0,
+    "senior population":-4334.077225
+  },
+  {
+    "GEOID":12011040801,
+    "DESERT":1,
+    "senior population":-4341.143129
+  },
+  {
+    "GEOID":12011040902,
+    "DESERT":0,
+    "senior population":-4348.209034
+  },
+  {
+    "GEOID":12011041200,
+    "DESERT":1,
+    "senior population":-4355.274938
+  },
+  {
+    "GEOID":12011041400,
+    "DESERT":1,
+    "senior population":-4362.340842
+  },
+  {
+    "GEOID":12011041700,
+    "DESERT":0,
+    "senior population":-4369.406747
+  },
+  {
+    "GEOID":12011041802,
+    "DESERT":0,
+    "senior population":-4376.472651
+  },
+  {
+    "GEOID":12011042301,
+    "DESERT":0,
+    "senior population":-4383.538555
+  },
+  {
+    "GEOID":12011042302,
+    "DESERT":0,
+    "senior population":-4390.60446
+  },
+  {
+    "GEOID":12011042700,
+    "DESERT":2,
+    "senior population":-4397.670364
+  },
+  {
+    "GEOID":12011042800,
+    "DESERT":1,
+    "senior population":-4404.736268
+  },
+  {
+    "GEOID":12011043002,
+    "DESERT":0,
+    "senior population":-4411.802173
+  },
+  {
+    "GEOID":12011050100,
+    "DESERT":2,
+    "senior population":-4418.868077
+  },
+  {
+    "GEOID":12011050204,
+    "DESERT":0,
+    "senior population":-4425.933981
+  },
+  {
+    "GEOID":12011050208,
+    "DESERT":1,
+    "senior population":-4432.999886
+  },
+  {
+    "GEOID":12011050310,
+    "DESERT":1,
+    "senior population":-4440.06579
+  },
+  {
+    "GEOID":12011050402,
+    "DESERT":0,
+    "senior population":-4447.131694
+  },
+  {
+    "GEOID":12011050601,
+    "DESERT":0,
+    "senior population":-4454.197599
+  },
+  {
+    "GEOID":12011050602,
+    "DESERT":0,
+    "senior population":-4461.263503
+  },
+  {
+    "GEOID":12011060105,
+    "DESERT":0,
+    "senior population":-4468.329407
+  },
+  {
+    "GEOID":12011060113,
+    "DESERT":0,
+    "senior population":-4475.395312
+  },
+  {
+    "GEOID":12011060115,
+    "DESERT":0,
+    "senior population":-4482.461216
+  },
+  {
+    "GEOID":12011060121,
+    "DESERT":0,
+    "senior population":-4489.52712
+  },
+  {
+    "GEOID":12011060402,
+    "DESERT":1,
+    "senior population":-4496.593025
+  },
+  {
+    "GEOID":12011060501,
+    "DESERT":0,
+    "senior population":-4503.658929
+  },
+  {
+    "GEOID":12011060605,
+    "DESERT":0,
+    "senior population":-4510.724833
+  },
+  {
+    "GEOID":12011060606,
+    "DESERT":0,
+    "senior population":-4517.790738
+  },
+  {
+    "GEOID":12011060608,
+    "DESERT":0,
+    "senior population":-4524.856642
+  },
+  {
+    "GEOID":12011060801,
+    "DESERT":0,
+    "senior population":-4531.922546
+  },
+  {
+    "GEOID":12011060900,
+    "DESERT":0,
+    "senior population":-4538.988451
+  },
+  {
+    "GEOID":12011061100,
+    "DESERT":2,
+    "senior population":-4546.054355
+  },
+  {
+    "GEOID":12011060124,
+    "DESERT":0,
+    "senior population":-4553.120259
+  },
+  {
+    "GEOID":12011060128,
+    "DESERT":2,
+    "senior population":-4560.186164
+  },
+  {
+    "GEOID":12011060207,
+    "DESERT":0,
+    "senior population":-4567.252068
+  },
+  {
+    "GEOID":12011060302,
+    "DESERT":1,
+    "senior population":-4574.317972
+  },
+  {
+    "GEOID":12011060306,
+    "DESERT":0,
+    "senior population":-4581.383877
+  },
+  {
+    "GEOID":12099007760,
+    "DESERT":0,
+    "senior population":-4588.449781
+  },
+  {
+    "GEOID":12099007763,
+    "DESERT":0,
+    "senior population":-4595.515685
+  },
+  {
+    "GEOID":12099007805,
+    "DESERT":0,
+    "senior population":-4602.581589
+  },
+  {
+    "GEOID":12099007809,
+    "DESERT":0,
+    "senior population":-4609.647494
+  },
+  {
+    "GEOID":12099007812,
+    "DESERT":0,
+    "senior population":-4616.713398
+  },
+  {
+    "GEOID":12099007818,
+    "DESERT":0,
+    "senior population":-4623.779302
+  },
+  {
+    "GEOID":12099007822,
+    "DESERT":0,
+    "senior population":-4630.845207
+  },
+  {
+    "GEOID":12099007828,
+    "DESERT":0,
+    "senior population":-4637.911111
+  },
+  {
+    "GEOID":12099007832,
+    "DESERT":0,
+    "senior population":-4644.977015
+  },
+  {
+    "GEOID":12011070204,
+    "DESERT":1,
+    "senior population":-4652.04292
+  },
+  {
+    "GEOID":12011070207,
+    "DESERT":0,
+    "senior population":-4659.108824
+  },
+  {
+    "GEOID":12011070209,
+    "DESERT":0,
+    "senior population":-4666.174728
+  },
+  {
+    "GEOID":12011070306,
+    "DESERT":0,
+    "senior population":-4673.240633
+  },
+  {
+    "GEOID":12011070310,
+    "DESERT":0,
+    "senior population":-4680.306537
+  },
+  {
+    "GEOID":12011070312,
+    "DESERT":0,
+    "senior population":-4687.372441
+  },
+  {
+    "GEOID":12011070315,
+    "DESERT":0,
+    "senior population":-4694.438346
+  },
+  {
+    "GEOID":12011070318,
+    "DESERT":0,
+    "senior population":-4701.50425
+  },
+  {
+    "GEOID":12011070320,
+    "DESERT":0,
+    "senior population":-4708.570154
+  },
+  {
+    "GEOID":12011070403,
+    "DESERT":0,
+    "senior population":-4715.636059
+  },
+  {
+    "GEOID":12011070501,
+    "DESERT":0,
+    "senior population":-4722.701963
+  },
+  {
+    "GEOID":12011090504,
+    "DESERT":1,
+    "senior population":-4729.767867
+  },
+  {
+    "GEOID":12011090700,
+    "DESERT":0,
+    "senior population":-4736.833772
+  },
+  {
+    "GEOID":12099007834,
+    "DESERT":0,
+    "senior population":-4743.899676
+  },
+  {
+    "GEOID":12099007839,
+    "DESERT":0,
+    "senior population":-4750.96558
+  },
+  {
+    "GEOID":12099007908,
+    "DESERT":0,
+    "senior population":-4758.031485
+  },
+  {
+    "GEOID":12099007910,
+    "DESERT":0,
+    "senior population":-4765.097389
+  },
+  {
+    "GEOID":12099007912,
+    "DESERT":0,
+    "senior population":-4772.163293
+  },
+  {
+    "GEOID":12099008201,
+    "DESERT":2,
+    "senior population":-4779.229198
+  },
+  {
+    "GEOID":12099008203,
+    "DESERT":0,
+    "senior population":-4786.295102
+  },
+  {
+    "GEOID":12099008302,
+    "DESERT":0,
+    "senior population":-4793.361006
+  },
+  {
+    "GEOID":12099980200,
+    "DESERT":0,
+    "senior population":-4800.426911
+  },
+  {
+    "GEOID":12011091000,
+    "DESERT":0,
+    "senior population":-4807.492815
+  },
+  {
+    "GEOID":12011091500,
+    "DESERT":1,
+    "senior population":-4814.558719
+  },
+  {
+    "GEOID":12011091701,
+    "DESERT":0,
+    "senior population":-4821.624624
+  },
+  {
+    "GEOID":12011091902,
+    "DESERT":0,
+    "senior population":-4828.690528
+  },
+  {
+    "GEOID":12011092000,
+    "DESERT":0,
+    "senior population":-4835.756432
+  },
+  {
+    "GEOID":12011100300,
+    "DESERT":1,
+    "senior population":-4842.822337
+  },
+  {
+    "GEOID":12011100501,
+    "DESERT":1,
+    "senior population":-4849.888241
+  },
+  {
+    "GEOID":12011100700,
+    "DESERT":2,
+    "senior population":-4856.954145
+  },
+  {
+    "GEOID":12011110100,
+    "DESERT":0,
+    "senior population":-4864.02005
+  },
+  {
+    "GEOID":12011110308,
+    "DESERT":0,
+    "senior population":-4871.085954
+  },
+  {
+    "GEOID":12011110319,
+    "DESERT":0,
+    "senior population":-4878.151858
+  },
+  {
+    "GEOID":12011110321,
+    "DESERT":0,
+    "senior population":-4885.217763
+  },
+  {
+    "GEOID":12011110324,
+    "DESERT":0,
+    "senior population":-4892.283667
+  },
+  {
+    "GEOID":12099980500,
+    "DESERT":0,
+    "senior population":-4899.349571
+  },
+  {
+    "GEOID":12011110326,
+    "DESERT":0,
+    "senior population":-4906.415476
+  },
+  {
+    "GEOID":12011110327,
+    "DESERT":0,
+    "senior population":-4913.48138
+  },
+  {
+    "GEOID":12011110333,
+    "DESERT":0,
+    "senior population":-4920.547284
+  },
+  {
+    "GEOID":12011110336,
+    "DESERT":0,
+    "senior population":-4927.613188
+  },
+  {
+    "GEOID":12011110338,
+    "DESERT":0,
+    "senior population":-4934.679093
+  },
+  {
+    "GEOID":12011110341,
+    "DESERT":0,
+    "senior population":-4941.744997
+  },
+  {
+    "GEOID":12011110404,
+    "DESERT":0,
+    "senior population":-4948.810901
+  },
+  {
+    "GEOID":12011110502,
+    "DESERT":1,
+    "senior population":-4955.876806
+  },
+  {
+    "GEOID":12011980000,
+    "DESERT":0,
+    "senior population":-4962.94271
+  },
+  {
+    "GEOID":12086004403,
+    "DESERT":0,
+    "senior population":-4970.008614
+  },
+  {
+    "GEOID":12086004500,
+    "DESERT":1,
+    "senior population":-4977.074519
+  },
+  {
+    "GEOID":12086004701,
+    "DESERT":0,
+    "senior population":-4984.140423
+  },
+  {
+    "GEOID":12086005102,
+    "DESERT":1,
+    "senior population":-4991.206327
+  },
+  {
+    "GEOID":12086005405,
+    "DESERT":1,
+    "senior population":-4998.272232
+  },
+  {
+    "GEOID":12086005502,
+    "DESERT":1,
+    "senior population":-5005.338136
+  },
+  {
+    "GEOID":12086006002,
+    "DESERT":0,
+    "senior population":-5012.40404
+  },
+  {
+    "GEOID":12086006402,
+    "DESERT":1,
+    "senior population":-5019.469945
+  },
+  {
+    "GEOID":12086007103,
+    "DESERT":0,
+    "senior population":-5026.535849
+  },
+  {
+    "GEOID":12086007606,
+    "DESERT":0,
+    "senior population":-5033.601753
+  },
+  {
+    "GEOID":12086007804,
+    "DESERT":0,
+    "senior population":-5040.667658
+  },
+  {
+    "GEOID":12086007805,
+    "DESERT":0,
+    "senior population":-5047.733562
+  },
+  {
+    "GEOID":12086008102,
+    "DESERT":0,
+    "senior population":-5054.799466
+  },
+  {
+    "GEOID":12086008209,
+    "DESERT":0,
+    "senior population":-5061.865371
+  },
+  {
+    "GEOID":12086008305,
+    "DESERT":0,
+    "senior population":-5068.931275
+  },
+  {
+    "GEOID":12086008414,
+    "DESERT":0,
+    "senior population":-5075.997179
+  },
+  {
+    "GEOID":12086008501,
+    "DESERT":0,
+    "senior population":-5083.063084
+  },
+  {
+    "GEOID":12086008601,
+    "DESERT":0,
+    "senior population":-5090.128988
+  },
+  {
+    "GEOID":12086008901,
+    "DESERT":0,
+    "senior population":-5097.194892
+  },
+  {
+    "GEOID":12086009019,
+    "DESERT":0,
+    "senior population":-5104.260797
+  },
+  {
+    "GEOID":12086009028,
+    "DESERT":0,
+    "senior population":-5111.326701
+  },
+  {
+    "GEOID":12086009306,
+    "DESERT":0,
+    "senior population":-5118.392605
+  },
+  {
+    "GEOID":12086009315,
+    "DESERT":0,
+    "senior population":-5125.45851
+  },
+  {
+    "GEOID":12086009704,
+    "DESERT":0,
+    "senior population":-5132.524414
+  },
+  {
+    "GEOID":12086009803,
+    "DESERT":0,
+    "senior population":-5139.590318
+  },
+  {
+    "GEOID":12086009808,
+    "DESERT":1,
+    "senior population":-5146.656223
+  },
+  {
+    "GEOID":12086010016,
+    "DESERT":0,
+    "senior population":-5153.722127
+  },
+  {
+    "GEOID":12086010204,
+    "DESERT":0,
+    "senior population":-5160.788031
+  },
+  {
+    "GEOID":12086010606,
+    "DESERT":0,
+    "senior population":-5167.853936
+  },
+  {
+    "GEOID":12086010612,
+    "DESERT":0,
+    "senior population":-5174.91984
+  },
+  {
+    "GEOID":12086010703,
+    "DESERT":2,
+    "senior population":-5181.985744
+  },
+  {
+    "GEOID":12086010704,
+    "DESERT":0,
+    "senior population":-5189.051649
+  },
+  {
+    "GEOID":12086000109,
+    "DESERT":1,
+    "senior population":-5196.117553
+  },
+  {
+    "GEOID":12086000123,
+    "DESERT":1,
+    "senior population":-5203.183457
+  },
+  {
+    "GEOID":12086000134,
+    "DESERT":0,
+    "senior population":-5210.249362
+  },
+  {
+    "GEOID":12086000211,
+    "DESERT":0,
+    "senior population":-5217.315266
+  },
+  {
+    "GEOID":12086000218,
+    "DESERT":0,
+    "senior population":-5224.38117
+  },
+  {
+    "GEOID":12086000302,
+    "DESERT":0,
+    "senior population":-5231.447075
+  },
+  {
+    "GEOID":12086000404,
+    "DESERT":1,
+    "senior population":-5238.512979
+  },
+  {
+    "GEOID":12086000408,
+    "DESERT":1,
+    "senior population":-5245.578883
+  },
+  {
+    "GEOID":12086000501,
+    "DESERT":2,
+    "senior population":-5252.644787
+  },
+  {
+    "GEOID":12086000603,
+    "DESERT":0,
+    "senior population":-5259.710692
+  },
+  {
+    "GEOID":12086000607,
+    "DESERT":0,
+    "senior population":-5266.776596
+  },
+  {
+    "GEOID":12086000804,
+    "DESERT":1,
+    "senior population":-5273.8425
+  },
+  {
+    "GEOID":12086011202,
+    "DESERT":1,
+    "senior population":-5280.908405
+  },
+  {
+    "GEOID":12086000805,
+    "DESERT":1,
+    "senior population":-5287.974309
+  },
+  {
+    "GEOID":12086001002,
+    "DESERT":1,
+    "senior population":-5295.040213
+  },
+  {
+    "GEOID":12086001204,
+    "DESERT":0,
+    "senior population":-5302.106118
+  },
+  {
+    "GEOID":12086001803,
+    "DESERT":0,
+    "senior population":-5309.172022
+  },
+  {
+    "GEOID":12086002201,
+    "DESERT":0,
+    "senior population":-5316.237926
+  },
+  {
+    "GEOID":12086003001,
+    "DESERT":0,
+    "senior population":-5323.303831
+  },
+  {
+    "GEOID":12086003602,
+    "DESERT":0,
+    "senior population":-5330.369735
+  },
+  {
+    "GEOID":12086003702,
+    "DESERT":0,
+    "senior population":-5337.435639
+  },
+  {
+    "GEOID":12086003803,
+    "DESERT":0,
+    "senior population":-5344.501544
+  },
+  {
+    "GEOID":12086003913,
+    "DESERT":0,
+    "senior population":-5351.567448
+  },
+  {
+    "GEOID":12086003921,
+    "DESERT":0,
+    "senior population":-5358.633352
+  },
+  {
+    "GEOID":12086004203,
+    "DESERT":0,
+    "senior population":-5365.699257
+  },
+  {
+    "GEOID":12086011500,
+    "DESERT":0,
+    "senior population":-5372.765161
+  },
+  {
+    "GEOID":12086012100,
+    "DESERT":2,
+    "senior population":-5379.831065
+  },
+  {
+    "GEOID":12086012800,
+    "DESERT":0,
+    "senior population":-5386.89697
+  },
+  {
+    "GEOID":12086013900,
+    "DESERT":0,
+    "senior population":-5393.962874
+  },
+  {
+    "GEOID":12086015700,
+    "DESERT":0,
+    "senior population":-5401.028778
+  },
+  {
+    "GEOID":12086016800,
+    "DESERT":0,
+    "senior population":-5408.094683
+  },
+  {
+    "GEOID":12086018400,
+    "DESERT":0,
+    "senior population":-5415.160587
+  },
+  {
+    "GEOID":12086018500,
+    "DESERT":0,
+    "senior population":-5422.226491
+  },
+  {
+    "GEOID":12086019300,
+    "DESERT":0,
+    "senior population":-5429.292396
+  },
+  {
+    "GEOID":12086019700,
+    "DESERT":0,
+    "senior population":-5436.3583
+  },
+  {
+    "GEOID":12086020200,
+    "DESERT":0,
+    "senior population":-5443.424204
+  },
+  {
+    "GEOID":12086980500,
+    "DESERT":0,
+    "senior population":-5450.490109
+  },
+  {
+    "GEOID":12086980700,
+    "DESERT":2,
+    "senior population":-5457.556013
+  },
+  {
+    "GEOID":12099000211,
+    "DESERT":0,
+    "senior population":-5464.621917
+  },
+  {
+    "GEOID":12099000301,
+    "DESERT":0,
+    "senior population":-5471.687822
+  },
+  {
+    "GEOID":12099000304,
+    "DESERT":0,
+    "senior population":-5478.753726
+  },
+  {
+    "GEOID":12099000505,
+    "DESERT":0,
+    "senior population":-5485.81963
+  },
+  {
+    "GEOID":12099000703,
+    "DESERT":0,
+    "senior population":-5492.885535
+  },
+  {
+    "GEOID":12099000904,
+    "DESERT":0,
+    "senior population":-5499.951439
+  },
+  {
+    "GEOID":12099001102,
+    "DESERT":0,
+    "senior population":-5507.017343
+  },
+  {
+    "GEOID":12099001404,
+    "DESERT":2,
+    "senior population":-5514.083248
+  },
+  {
+    "GEOID":12099001908,
+    "DESERT":0,
+    "senior population":-5521.149152
+  },
+  {
+    "GEOID":12099001911,
+    "DESERT":1,
+    "senior population":-5528.215056
+  },
+  {
+    "GEOID":12099002200,
+    "DESERT":1,
+    "senior population":-5535.280961
+  },
+  {
+    "GEOID":12099003000,
+    "DESERT":2,
+    "senior population":-5542.346865
+  },
+  {
+    "GEOID":12099003600,
+    "DESERT":2,
+    "senior population":-5549.412769
+  },
+  {
+    "GEOID":12099004203,
+    "DESERT":0,
+    "senior population":-5556.478674
+  },
+  {
+    "GEOID":12099004706,
+    "DESERT":0,
+    "senior population":-5563.544578
+  },
+  {
+    "GEOID":12099004817,
+    "DESERT":1,
+    "senior population":-5570.610482
+  },
+  {
+    "GEOID":12099005101,
+    "DESERT":1,
+    "senior population":-5577.676387
+  },
+  {
+    "GEOID":12099005203,
+    "DESERT":1,
+    "senior population":-5584.742291
+  },
+  {
+    "GEOID":12099005407,
+    "DESERT":0,
+    "senior population":-5591.808195
+  },
+  {
+    "GEOID":12099005701,
+    "DESERT":2,
+    "senior population":-5598.874099
+  },
+  {
+    "GEOID":12099005810,
+    "DESERT":1,
+    "senior population":-5605.940004
+  },
+  {
+    "GEOID":12099005915,
+    "DESERT":0,
+    "senior population":-5613.005908
+  },
+  {
+    "GEOID":12099000202,
+    "DESERT":2,
+    "senior population":-5620.071812
+  },
+  {
+    "GEOID":12099005917,
+    "DESERT":0,
+    "senior population":-5627.137717
+  },
+  {
+    "GEOID":12099005935,
+    "DESERT":0,
+    "senior population":-5634.203621
+  },
+  {
+    "GEOID":12099005954,
+    "DESERT":0,
+    "senior population":-5641.269525
+  },
+  {
+    "GEOID":12099006100,
+    "DESERT":2,
+    "senior population":-5648.33543
+  },
+  {
+    "GEOID":12099006501,
+    "DESERT":1,
+    "senior population":-5655.401334
+  },
+  {
+    "GEOID":12099007006,
+    "DESERT":0,
+    "senior population":-5662.467238
+  },
+  {
+    "GEOID":12099007201,
+    "DESERT":0,
+    "senior population":-5669.533143
+  },
+  {
+    "GEOID":12099007414,
+    "DESERT":0,
+    "senior population":-5676.599047
+  },
+  {
+    "GEOID":12099007420,
+    "DESERT":0,
+    "senior population":-5683.664951
+  },
+  {
+    "GEOID":12099007605,
+    "DESERT":0,
+    "senior population":-5690.730856
+  },
+  {
+    "GEOID":12099007616,
+    "DESERT":0,
+    "senior population":-5697.79676
+  },
+  {
+    "GEOID":12099007716,
+    "DESERT":0,
+    "senior population":-5704.862664
+  },
+  {
+    "GEOID":12099007721,
+    "DESERT":0,
+    "senior population":-5711.928569
+  },
+  {
+    "GEOID":12099007735,
+    "DESERT":0,
+    "senior population":-5718.994473
+  },
+  {
+    "GEOID":12099007740,
+    "DESERT":0,
+    "senior population":-5726.060377
+  },
+  {
+    "GEOID":12099007750,
+    "DESERT":0,
+    "senior population":-5733.126282
+  },
+  {
+    "GEOID":12099007757,
+    "DESERT":0,
+    "senior population":-5740.192186
+  },
+  {
+    "GEOID":12099007764,
+    "DESERT":0,
+    "senior population":-5747.25809
+  },
+  {
+    "GEOID":12099007817,
+    "DESERT":0,
+    "senior population":-5754.323995
+  },
+  {
+    "GEOID":12099007831,
+    "DESERT":0,
+    "senior population":-5761.389899
+  },
+  {
+    "GEOID":12099008202,
+    "DESERT":1,
+    "senior population":-5768.455803
+  },
+  {
+    "GEOID":12099980400,
+    "DESERT":0,
+    "senior population":-5775.521708
+  },
+  {
+    "GEOID":12011090404,
+    "DESERT":2,
+    "senior population":-5782.587612
+  },
+  {
+    "GEOID":12011090802,
+    "DESERT":0,
+    "senior population":-5789.653516
+  },
+  {
+    "GEOID":12011091300,
+    "DESERT":0,
+    "senior population":-5796.719421
+  },
+  {
+    "GEOID":12011091400,
+    "DESERT":0,
+    "senior population":-5803.785325
+  },
+  {
+    "GEOID":12011100101,
+    "DESERT":0,
+    "senior population":-5810.851229
+  },
+  {
+    "GEOID":12011100400,
+    "DESERT":1,
+    "senior population":-5817.917134
+  },
+  {
+    "GEOID":12011110301,
+    "DESERT":0,
+    "senior population":-5824.983038
+  },
+  {
+    "GEOID":12011110302,
+    "DESERT":0,
+    "senior population":-5832.048942
+  },
+  {
+    "GEOID":12011110320,
+    "DESERT":2,
+    "senior population":-5839.114847
+  },
+  {
+    "GEOID":12011110322,
+    "DESERT":0,
+    "senior population":-5846.180751
+  },
+  {
+    "GEOID":12011110337,
+    "DESERT":0,
+    "senior population":-5853.246655
+  },
+  {
+    "GEOID":12011010200,
+    "DESERT":0,
+    "senior population":-5860.31256
+  },
+  {
+    "GEOID":12011010403,
+    "DESERT":1,
+    "senior population":-5867.378464
+  },
+  {
+    "GEOID":12011010607,
+    "DESERT":0,
+    "senior population":-5874.444368
+  },
+  {
+    "GEOID":12011010702,
+    "DESERT":1,
+    "senior population":-5881.510273
+  },
+  {
+    "GEOID":12011020103,
+    "DESERT":1,
+    "senior population":-5888.576177
+  },
+  {
+    "GEOID":12011020204,
+    "DESERT":0,
+    "senior population":-5895.642081
+  },
+  {
+    "GEOID":12011020209,
+    "DESERT":0,
+    "senior population":-5902.707986
+  },
+  {
+    "GEOID":12011020311,
+    "DESERT":0,
+    "senior population":-5909.77389
+  },
+  {
+    "GEOID":12011020320,
+    "DESERT":0,
+    "senior population":-5916.839794
+  },
+  {
+    "GEOID":12011020324,
+    "DESERT":0,
+    "senior population":-5923.905698
+  },
+  {
+    "GEOID":12011020407,
+    "DESERT":0,
+    "senior population":-5930.971603
+  },
+  {
+    "GEOID":12011020415,
+    "DESERT":0,
+    "senior population":-5938.037507
+  },
+  {
+    "GEOID":12011030301,
+    "DESERT":1,
+    "senior population":-5945.103411
+  },
+  {
+    "GEOID":12011030500,
+    "DESERT":1,
+    "senior population":-5952.169316
+  },
+  {
+    "GEOID":12011030703,
+    "DESERT":0,
+    "senior population":-5959.23522
+  },
+  {
+    "GEOID":12011030904,
+    "DESERT":0,
+    "senior population":-5966.301124
+  },
+  {
+    "GEOID":12011031202,
+    "DESERT":0,
+    "senior population":-5973.367029
+  },
+  {
+    "GEOID":12011040102,
+    "DESERT":0,
+    "senior population":-5980.432933
+  },
+  {
+    "GEOID":12011040206,
+    "DESERT":0,
+    "senior population":-5987.498837
+  },
+  {
+    "GEOID":12011040602,
+    "DESERT":0,
+    "senior population":-5994.564742
+  },
+  {
+    "GEOID":12011042000,
+    "DESERT":0,
+    "senior population":-6001.630646
+  },
+  {
+    "GEOID":12011050206,
+    "DESERT":0,
+    "senior population":-6008.69655
+  },
+  {
+    "GEOID":12011050207,
+    "DESERT":0,
+    "senior population":-6015.762455
+  },
+  {
+    "GEOID":12011050501,
+    "DESERT":1,
+    "senior population":-6022.828359
+  },
+  {
+    "GEOID":12011050900,
+    "DESERT":0,
+    "senior population":-6029.894263
+  },
+  {
+    "GEOID":12011060111,
+    "DESERT":0,
+    "senior population":-6036.960168
+  },
+  {
+    "GEOID":12011060116,
+    "DESERT":0,
+    "senior population":-6044.026072
+  },
+  {
+    "GEOID":12011060122,
+    "DESERT":0,
+    "senior population":-6051.091976
+  },
+  {
+    "GEOID":12011060203,
+    "DESERT":1,
+    "senior population":-6058.157881
+  },
+  {
+    "GEOID":12011060206,
+    "DESERT":1,
+    "senior population":-6065.223785
+  },
+  {
+    "GEOID":12011060213,
+    "DESERT":1,
+    "senior population":-6072.289689
+  },
+  {
+    "GEOID":12011060504,
+    "DESERT":0,
+    "senior population":-6079.355594
+  },
+  {
+    "GEOID":12011060802,
+    "DESERT":0,
+    "senior population":-6086.421498
+  },
+  {
+    "GEOID":12011070305,
+    "DESERT":0,
+    "senior population":-6093.487402
+  },
+  {
+    "GEOID":12011070316,
+    "DESERT":0,
+    "senior population":-6100.553307
+  },
+  {
+    "GEOID":12011070401,
+    "DESERT":0,
+    "senior population":-6107.619211
+  },
+  {
+    "GEOID":12011070601,
+    "DESERT":2,
+    "senior population":-6114.685115
+  },
+  {
+    "GEOID":12011080405,
+    "DESERT":1,
+    "senior population":-6121.75102
+  },
+  {
+    "GEOID":12011090101,
+    "DESERT":0,
+    "senior population":-6128.816924
+  },
+  {
+    "GEOID":12011010609,
+    "DESERT":0,
+    "senior population":-6135.882828
+  },
+  {
+    "GEOID":12011061002,
+    "DESERT":0,
+    "senior population":-6142.948733
+  },
+  {
+    "GEOID":12011070319,
+    "DESERT":0,
+    "senior population":-6150.014637
+  },
+  {
+    "GEOID":12011080200,
+    "DESERT":0,
+    "senior population":-6157.080541
+  },
+  {
+    "GEOID":12011090801,
+    "DESERT":0,
+    "senior population":-6164.146446
+  },
+  {
+    "GEOID":12011110313,
+    "DESERT":0,
+    "senior population":-6171.21235
+  },
+  {
+    "GEOID":12011110342,
+    "DESERT":0,
+    "senior population":-6178.278254
+  },
+  {
+    "GEOID":12086000604,
+    "DESERT":1,
+    "senior population":-6185.344159
+  },
+  {
+    "GEOID":12086001005,
+    "DESERT":0,
+    "senior population":-6192.410063
+  },
+  {
+    "GEOID":12086001701,
+    "DESERT":1,
+    "senior population":-6199.475967
+  },
+  {
+    "GEOID":12086003706,
+    "DESERT":0,
+    "senior population":-6206.541872
+  },
+  {
+    "GEOID":12086004106,
+    "DESERT":0,
+    "senior population":-6213.607776
+  },
+  {
+    "GEOID":12086004901,
+    "DESERT":1,
+    "senior population":-6220.67368
+  },
+  {
+    "GEOID":12086005701,
+    "DESERT":0,
+    "senior population":-6227.739585
+  },
+  {
+    "GEOID":12086007001,
+    "DESERT":1,
+    "senior population":-6234.805489
+  },
+  {
+    "GEOID":12086008410,
+    "DESERT":0,
+    "senior population":-6241.871393
+  },
+  {
+    "GEOID":12086009006,
+    "DESERT":0,
+    "senior population":-6248.937298
+  },
+  {
+    "GEOID":12086009504,
+    "DESERT":0,
+    "senior population":-6256.003202
+  },
+  {
+    "GEOID":12086009806,
+    "DESERT":1,
+    "senior population":-6263.069106
+  },
+  {
+    "GEOID":12086010802,
+    "DESERT":1,
+    "senior population":-6270.13501
+  },
+  {
+    "GEOID":12086011900,
+    "DESERT":0,
+    "senior population":-6277.200915
+  },
+  {
+    "GEOID":12086016200,
+    "DESERT":0,
+    "senior population":-6284.266819
+  },
+  {
+    "GEOID":12086018300,
+    "DESERT":0,
+    "senior population":-6291.332723
+  },
+  {
+    "GEOID":12099000214,
+    "DESERT":0,
+    "senior population":-6298.398628
+  },
+  {
+    "GEOID":12099001403,
+    "DESERT":1,
+    "senior population":-6305.464532
+  },
+  {
+    "GEOID":12099001907,
+    "DESERT":0,
+    "senior population":-6312.530436
+  },
+  {
+    "GEOID":12099003400,
+    "DESERT":0,
+    "senior population":-6319.596341
+  },
+  {
+    "GEOID":12099004201,
+    "DESERT":1,
+    "senior population":-6326.662245
+  },
+  {
+    "GEOID":12099004902,
+    "DESERT":0,
+    "senior population":-6333.728149
+  },
+  {
+    "GEOID":12099005931,
+    "DESERT":0,
+    "senior population":-6340.794054
+  },
+  {
+    "GEOID":12099006005,
+    "DESERT":0,
+    "senior population":-6347.859958
+  },
+  {
+    "GEOID":12099006605,
+    "DESERT":0,
+    "senior population":-6354.925862
+  },
+  {
+    "GEOID":12099007301,
+    "DESERT":0,
+    "senior population":-6361.991767
+  },
+  {
+    "GEOID":12099007501,
+    "DESERT":0,
+    "senior population":-6369.057671
+  },
+  {
+    "GEOID":12099007732,
+    "DESERT":0,
+    "senior population":-6376.123575
+  },
+  {
+    "GEOID":12099007758,
+    "DESERT":0,
+    "senior population":-6383.18948
+  },
+  {
+    "GEOID":12099008301,
+    "DESERT":1,
+    "senior population":-6390.255384
+  },
+  {
+    "GEOID":12086005802,
+    "DESERT":1,
+    "senior population":-6397.321288
+  },
+  {
+    "GEOID":12086006601,
+    "DESERT":1,
+    "senior population":-6404.387193
+  },
+  {
+    "GEOID":12086006801,
+    "DESERT":0,
+    "senior population":-6411.453097
+  },
+  {
+    "GEOID":12086007806,
+    "DESERT":0,
+    "senior population":-6418.519001
+  },
+  {
+    "GEOID":12086008306,
+    "DESERT":0,
+    "senior population":-6425.584906
+  },
+  {
+    "GEOID":12086008907,
+    "DESERT":0,
+    "senior population":-6432.65081
+  },
+  {
+    "GEOID":12086009100,
+    "DESERT":2,
+    "senior population":-6439.716714
+  },
+  {
+    "GEOID":12086010609,
+    "DESERT":1,
+    "senior population":-6446.782619
+  },
+  {
+    "GEOID":12086011101,
+    "DESERT":1,
+    "senior population":-6453.848523
+  },
+  {
+    "GEOID":12011030705,
+    "DESERT":0,
+    "senior population":-6460.914427
+  },
+  {
+    "GEOID":12011040901,
+    "DESERT":1,
+    "senior population":-6467.980332
+  },
+  {
+    "GEOID":12011042600,
+    "DESERT":1,
+    "senior population":-6475.046236
+  },
+  {
+    "GEOID":12011060304,
+    "DESERT":2,
+    "senior population":-6482.11214
+  },
+  {
+    "GEOID":12086014000,
+    "DESERT":0,
+    "senior population":-6489.178045
+  },
+  {
+    "GEOID":12086016300,
+    "DESERT":0,
+    "senior population":-6496.243949
+  },
+  {
+    "GEOID":12086018600,
+    "DESERT":0,
+    "senior population":-6503.309853
+  },
+  {
+    "GEOID":12086020000,
+    "DESERT":0,
+    "senior population":-6510.375758
+  },
+  {
+    "GEOID":12086981000,
+    "DESERT":0,
+    "senior population":-6517.441662
+  },
+  {
+    "GEOID":12099007612,
+    "DESERT":0,
+    "senior population":-6524.507566
+  },
+  {
+    "GEOID":12086003917,
+    "DESERT":0,
+    "senior population":-6531.573471
+  },
+  {
+    "GEOID":12011050800,
+    "DESERT":2,
+    "senior population":-6538.639375
+  },
+  {
+    "GEOID":12011110501,
+    "DESERT":0,
+    "senior population":-6545.705279
+  },
+  {
+    "GEOID":12086010400,
+    "DESERT":2,
+    "senior population":-6552.771184
+  },
+  {
+    "GEOID":12086011007,
+    "DESERT":1,
+    "senior population":-6559.837088
+  },
+  {
+    "GEOID":12011010104,
+    "DESERT":0,
+    "senior population":-6566.902992
+  },
+  {
+    "GEOID":12011010612,
+    "DESERT":0,
+    "senior population":-6573.968897
+  },
+  {
+    "GEOID":12011020319,
+    "DESERT":0,
+    "senior population":-6581.034801
+  },
+  {
+    "GEOID":12011020413,
+    "DESERT":1,
+    "senior population":-6588.100705
+  },
+  {
+    "GEOID":12011031205,
+    "DESERT":0,
+    "senior population":-6595.166609
+  },
+  {
+    "GEOID":12099005953,
+    "DESERT":0,
+    "senior population":-6602.232514
+  },
+  {
+    "GEOID":12099006602,
+    "DESERT":0,
+    "senior population":-6609.298418
+  },
+  {
+    "GEOID":12099006911,
+    "DESERT":0,
+    "senior population":-6616.364322
+  },
+  {
+    "GEOID":12099990100,
+    "DESERT":0,
+    "senior population":-6623.430227
+  },
+  {
+    "GEOID":12099007725,
+    "DESERT":0,
+    "senior population":-6630.496131
+  },
+  {
+    "GEOID":12099007746,
+    "DESERT":1,
+    "senior population":-6637.562035
+  },
+  {
+    "GEOID":12011061001,
+    "DESERT":0,
+    "senior population":-6644.62794
+  },
+  {
+    "GEOID":12011070317,
+    "DESERT":0,
+    "senior population":-6651.693844
+  },
+  {
+    "GEOID":12011091202,
+    "DESERT":0,
+    "senior population":-6658.759748
+  },
+  {
+    "GEOID":12011110303,
+    "DESERT":0,
+    "senior population":-6665.825653
+  },
+  {
+    "GEOID":12011040502,
+    "DESERT":0,
+    "senior population":-6672.891557
+  },
+  {
+    "GEOID":12011041100,
+    "DESERT":2,
+    "senior population":-6679.957461
+  },
+  {
+    "GEOID":12011042100,
+    "DESERT":0,
+    "senior population":-6687.023366
+  },
+  {
+    "GEOID":12011050307,
+    "DESERT":1,
+    "senior population":-6694.08927
+  },
+  {
+    "GEOID":12011060119,
+    "DESERT":0,
+    "senior population":-6701.155174
+  },
+  {
+    "GEOID":12011060212,
+    "DESERT":0,
+    "senior population":-6708.221079
+  },
+  {
+    "GEOID":12099007766,
+    "DESERT":0,
+    "senior population":-6715.286983
+  },
+  {
+    "GEOID":12099007837,
+    "DESERT":0,
+    "senior population":-6722.352887
+  },
+  {
+    "GEOID":12099001402,
+    "DESERT":1,
+    "senior population":-6729.418792
+  },
+  {
+    "GEOID":12099003101,
+    "DESERT":2,
+    "senior population":-6736.484696
+  },
+  {
+    "GEOID":12099004012,
+    "DESERT":0,
+    "senior population":-6743.5506
+  },
+  {
+    "GEOID":12099004602,
+    "DESERT":2,
+    "senior population":-6750.616505
+  },
+  {
+    "GEOID":12099005411,
+    "DESERT":0,
+    "senior population":-6757.682409
+  },
+  {
+    "GEOID":12099005815,
+    "DESERT":0,
+    "senior population":-6764.748313
+  },
+  {
+    "GEOID":12099000215,
+    "DESERT":0,
+    "senior population":-6771.814218
+  },
+  {
+    "GEOID":12099000600,
+    "DESERT":0,
+    "senior population":-6778.880122
+  },
+  {
+    "GEOID":12086001501,
+    "DESERT":1,
+    "senior population":-6785.946026
+  },
+  {
+    "GEOID":12086001802,
+    "DESERT":1,
+    "senior population":-6793.011931
+  },
+  {
+    "GEOID":12086002706,
+    "DESERT":0,
+    "senior population":-6800.077835
+  },
+  {
+    "GEOID":12086003918,
+    "DESERT":0,
+    "senior population":-6807.143739
+  },
+  {
+    "GEOID":12086005201,
+    "DESERT":0,
+    "senior population":-6814.209644
+  },
+  {
+    "GEOID":12086005600,
+    "DESERT":0,
+    "senior population":-6821.275548
+  },
+  {
+    "GEOID":12086000119,
+    "DESERT":0,
+    "senior population":-6828.341452
+  },
+  {
+    "GEOID":12086000215,
+    "DESERT":0,
+    "senior population":-6835.407357
+  },
+  {
+    "GEOID":12086000405,
+    "DESERT":1,
+    "senior population":-6842.473261
+  },
+  {
+    "GEOID":12086000806,
+    "DESERT":1,
+    "senior population":-6849.539165
+  },
+  {
+    "GEOID":12011110331,
+    "DESERT":0,
+    "senior population":-6856.60507
+  }
+]
